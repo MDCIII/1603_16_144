@@ -25,7 +25,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Colombo"@eng-Latn ,
         "කොළඹ"@sin-Sinh ,
         "கொழும்பு"@tam-Taml ;
-    wdata:q7200235 "LK1103" ;
+    wdata:Q7200235 "LK1103" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -381,7 +381,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kolonnawa"@eng-Latn ,
         "කොලොන්නාව"@sin-Sinh ,
         "கொலன்னாவை"@tam-Taml ;
-    wdata:q7200235 "LK1106" ;
+    wdata:Q7200235 "LK1106" ;
 .
 
 <urn:mdciii:1603:16:144:3:1109>
@@ -394,7 +394,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kaduwela"@eng-Latn ,
         "කඩුවෙල"@sin-Sinh ,
         "கடுவெலை"@tam-Taml ;
-    wdata:q7200235 "LK1109" ;
+    wdata:Q7200235 "LK1109" ;
 .
 
 <urn:mdciii:1603:16:144:3:1112>
@@ -407,7 +407,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Homagama"@eng-Latn ,
         "හෝමාගම"@sin-Sinh ,
         "கோமகமை"@tam-Taml ;
-    wdata:q7200235 "LK1112" ;
+    wdata:Q7200235 "LK1112" ;
 .
 
 <urn:mdciii:1603:16:144:3:1115>
@@ -420,7 +420,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Seethawaka"@eng-Latn ,
         "සීතාවක"@sin-Sinh ,
         "சீதவாக்கை"@tam-Taml ;
-    wdata:q7200235 "LK1115" ;
+    wdata:Q7200235 "LK1115" ;
 .
 
 <urn:mdciii:1603:16:144:3:1118>
@@ -433,7 +433,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Padukka"@eng-Latn ,
         "පාදුක්ක"@sin-Sinh ,
         "பாதுக்கை"@tam-Taml ;
-    wdata:q7200235 "LK1118" ;
+    wdata:Q7200235 "LK1118" ;
 .
 
 <urn:mdciii:1603:16:144:3:1121>
@@ -446,7 +446,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Maharagama"@eng-Latn ,
         "මහරගම"@sin-Sinh ,
         "மகரகமை"@tam-Taml ;
-    wdata:q7200235 "LK1121" ;
+    wdata:Q7200235 "LK1121" ;
 .
 
 <urn:mdciii:1603:16:144:3:1124>
@@ -459,7 +459,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Sri Jayawardanapura Kotte"@eng-Latn ,
         "ශ්‍රී ජයවර්ධනපුර කෝට්ටේ"@sin-Sinh ,
         "ஸ்ரீ ஜயவர்தனபுர"@tam-Taml ;
-    wdata:q7200235 "LK1124" ;
+    wdata:Q7200235 "LK1124" ;
 .
 
 <urn:mdciii:1603:16:144:3:1127>
@@ -472,7 +472,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Thimbirigasyaya"@eng-Latn ,
         "තිඹිරිගස්යාය"@sin-Sinh ,
         "திம்பிரிகஸ்யாய"@tam-Taml ;
-    wdata:q7200235 "LK1127" ;
+    wdata:Q7200235 "LK1127" ;
 .
 
 <urn:mdciii:1603:16:144:3:1130>
@@ -485,7 +485,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Dehiwala"@eng-Latn ,
         "දෙහිවල"@sin-Sinh ,
         "தெகிவளை"@tam-Taml ;
-    wdata:q7200235 "LK1130" ;
+    wdata:Q7200235 "LK1130" ;
 .
 
 <urn:mdciii:1603:16:144:3:1131>
@@ -498,7 +498,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ratmalana"@eng-Latn ,
         "රත්මලාන"@sin-Sinh ,
         "இரத்மலானை"@tam-Taml ;
-    wdata:q7200235 "LK1131" ;
+    wdata:Q7200235 "LK1131" ;
 .
 
 <urn:mdciii:1603:16:144:3:1133>
@@ -511,7 +511,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Moratuwa"@eng-Latn ,
         "මොරටුව"@sin-Sinh ,
         "மொரட்டுவை"@tam-Taml ;
-    wdata:q7200235 "LK1133" ;
+    wdata:Q7200235 "LK1133" ;
 .
 
 <urn:mdciii:1603:16:144:3:1136>
@@ -524,7 +524,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kesbewa"@eng-Latn ,
         "කැස්බෑව"@sin-Sinh ,
         "கெஸ்பவை"@tam-Taml ;
-    wdata:q7200235 "LK1136" ;
+    wdata:Q7200235 "LK1136" ;
 .
 
 <urn:mdciii:1603:16:144:3:1203>
@@ -537,7 +537,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Negombo"@eng-Latn ,
         "මීගමුව"@sin-Sinh ,
         "நீர்கொழும்பு"@tam-Taml ;
-    wdata:q7200235 "LK1203" ;
+    wdata:Q7200235 "LK1203" ;
 .
 
 <urn:mdciii:1603:16:144:3:1206>
@@ -550,7 +550,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Katana"@eng-Latn ,
         "කටාන"@sin-Sinh ,
         "கந்தானை"@tam-Taml ;
-    wdata:q7200235 "LK1206" ;
+    wdata:Q7200235 "LK1206" ;
 .
 
 <urn:mdciii:1603:16:144:3:1209>
@@ -563,7 +563,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Divulapitiya"@eng-Latn ,
         "දිවුලපිටිය"@sin-Sinh ,
         "திவுலபிட்டிய"@tam-Taml ;
-    wdata:q7200235 "LK1209" ;
+    wdata:Q7200235 "LK1209" ;
 .
 
 <urn:mdciii:1603:16:144:3:1212>
@@ -576,7 +576,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Mirigama"@eng-Latn ,
         "මීරිගම"@sin-Sinh ,
         "மீரிகமை"@tam-Taml ;
-    wdata:q7200235 "LK1212" ;
+    wdata:Q7200235 "LK1212" ;
 .
 
 <urn:mdciii:1603:16:144:3:1215>
@@ -589,7 +589,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Minuwangoda"@eng-Latn ,
         "මිනුවන්ගොඩ"@sin-Sinh ,
         "மினுவாங்கொடை"@tam-Taml ;
-    wdata:q7200235 "LK1215" ;
+    wdata:Q7200235 "LK1215" ;
 .
 
 <urn:mdciii:1603:16:144:3:1218>
@@ -602,7 +602,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Wattala"@eng-Latn ,
         "වත්තල"@sin-Sinh ,
         "வத்தளை"@tam-Taml ;
-    wdata:q7200235 "LK1218" ;
+    wdata:Q7200235 "LK1218" ;
 .
 
 <urn:mdciii:1603:16:144:3:1221>
@@ -615,7 +615,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ja Ela"@eng-Latn ,
         "ජා-ඇල"@sin-Sinh ,
         "யா-எலை"@tam-Taml ;
-    wdata:q7200235 "LK1221" ;
+    wdata:Q7200235 "LK1221" ;
 .
 
 <urn:mdciii:1603:16:144:3:1224>
@@ -628,7 +628,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Gampaha"@eng-Latn ,
         "ගම්පහ"@sin-Sinh ,
         "கம்பகா"@tam-Taml ;
-    wdata:q7200235 "LK1224" ;
+    wdata:Q7200235 "LK1224" ;
 .
 
 <urn:mdciii:1603:16:144:3:1227>
@@ -641,7 +641,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Attanagalla"@eng-Latn ,
         "අත්තනගල්ල"@sin-Sinh ,
         "அத்தனகல்லை"@tam-Taml ;
-    wdata:q7200235 "LK1227" ;
+    wdata:Q7200235 "LK1227" ;
 .
 
 <urn:mdciii:1603:16:144:3:1230>
@@ -654,7 +654,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Dompe"@eng-Latn ,
         "දොම්පෙ"@sin-Sinh ,
         "தொம்பே"@tam-Taml ;
-    wdata:q7200235 "LK1230" ;
+    wdata:Q7200235 "LK1230" ;
 .
 
 <urn:mdciii:1603:16:144:3:1233>
@@ -667,7 +667,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Mahara"@eng-Latn ,
         "මහර"@sin-Sinh ,
         "மகரை"@tam-Taml ;
-    wdata:q7200235 "LK1233" ;
+    wdata:Q7200235 "LK1233" ;
 .
 
 <urn:mdciii:1603:16:144:3:1236>
@@ -680,7 +680,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kelaniya"@eng-Latn ,
         "කැළණිය"@sin-Sinh ,
         "களனி"@tam-Taml ;
-    wdata:q7200235 "LK1236" ;
+    wdata:Q7200235 "LK1236" ;
 .
 
 <urn:mdciii:1603:16:144:3:1239>
@@ -693,7 +693,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Biyagama"@eng-Latn ,
         "බියගම"@sin-Sinh ,
         "பியகமை"@tam-Taml ;
-    wdata:q7200235 "LK1239" ;
+    wdata:Q7200235 "LK1239" ;
 .
 
 <urn:mdciii:1603:16:144:3:1303>
@@ -706,7 +706,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Panadura"@eng-Latn ,
         "පානදුර"@sin-Sinh ,
         "பாணந்துறை"@tam-Taml ;
-    wdata:q7200235 "LK1303" ;
+    wdata:Q7200235 "LK1303" ;
 .
 
 <urn:mdciii:1603:16:144:3:1306>
@@ -719,7 +719,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Bandaragama"@eng-Latn ,
         "බණ්ඩාරගම"@sin-Sinh ,
         "பண்டாரகமை"@tam-Taml ;
-    wdata:q7200235 "LK1306" ;
+    wdata:Q7200235 "LK1306" ;
 .
 
 <urn:mdciii:1603:16:144:3:1309>
@@ -732,7 +732,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Horana"@eng-Latn ,
         "හොරණ"@sin-Sinh ,
         "கொரணை"@tam-Taml ;
-    wdata:q7200235 "LK1309" ;
+    wdata:Q7200235 "LK1309" ;
 .
 
 <urn:mdciii:1603:16:144:3:1310>
@@ -745,7 +745,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ingiriya"@eng-Latn ,
         "ඉංගිරිය"@sin-Sinh ,
         "இங்கிரிய"@tam-Taml ;
-    wdata:q7200235 "LK1310" ;
+    wdata:Q7200235 "LK1310" ;
 .
 
 <urn:mdciii:1603:16:144:3:1312>
@@ -758,7 +758,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Bulathsinhala"@eng-Latn ,
         "බුලත්සිංහල"@sin-Sinh ,
         "புலத்சிங்கள"@tam-Taml ;
-    wdata:q7200235 "LK1312" ;
+    wdata:Q7200235 "LK1312" ;
 .
 
 <urn:mdciii:1603:16:144:3:1315>
@@ -771,7 +771,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Madurawala"@eng-Latn ,
         "මදුරාවෙල"@sin-Sinh ,
         "மதுராவெலை"@tam-Taml ;
-    wdata:q7200235 "LK1315" ;
+    wdata:Q7200235 "LK1315" ;
 .
 
 <urn:mdciii:1603:16:144:3:1318>
@@ -784,7 +784,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Millaniya"@eng-Latn ,
         "මිල්ලනිය"@sin-Sinh ,
         "மில்லனிய"@tam-Taml ;
-    wdata:q7200235 "LK1318" ;
+    wdata:Q7200235 "LK1318" ;
 .
 
 <urn:mdciii:1603:16:144:3:1321>
@@ -797,7 +797,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kalutara"@eng-Latn ,
         "කඵතර"@sin-Sinh ,
         "களுத்துறை"@tam-Taml ;
-    wdata:q7200235 "LK1321" ;
+    wdata:Q7200235 "LK1321" ;
 .
 
 <urn:mdciii:1603:16:144:3:1324>
@@ -810,7 +810,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Beruwala"@eng-Latn ,
         "බේරුවල"@sin-Sinh ,
         "பேருவளை"@tam-Taml ;
-    wdata:q7200235 "LK1324" ;
+    wdata:Q7200235 "LK1324" ;
 .
 
 <urn:mdciii:1603:16:144:3:1327>
@@ -823,7 +823,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Dodangoda"@eng-Latn ,
         "දොඩංගොඩ"@sin-Sinh ,
         "தொடாங்கொடை"@tam-Taml ;
-    wdata:q7200235 "LK1327" ;
+    wdata:Q7200235 "LK1327" ;
 .
 
 <urn:mdciii:1603:16:144:3:1330>
@@ -836,7 +836,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Matugama"@eng-Latn ,
         "මතුගම"@sin-Sinh ,
         "மதுகமை"@tam-Taml ;
-    wdata:q7200235 "LK1330" ;
+    wdata:Q7200235 "LK1330" ;
 .
 
 <urn:mdciii:1603:16:144:3:1333>
@@ -849,7 +849,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Agalawatta"@eng-Latn ,
         "අගලවත්ත"@sin-Sinh ,
         "அகலவத்தை"@tam-Taml ;
-    wdata:q7200235 "LK1333" ;
+    wdata:Q7200235 "LK1333" ;
 .
 
 <urn:mdciii:1603:16:144:3:1336>
@@ -862,7 +862,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Palindanuwara"@eng-Latn ,
         "පාලින්දනුවර"@sin-Sinh ,
         "பாலிந்தநுவரை"@tam-Taml ;
-    wdata:q7200235 "LK1336" ;
+    wdata:Q7200235 "LK1336" ;
 .
 
 <urn:mdciii:1603:16:144:3:1339>
@@ -875,7 +875,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Walallawita"@eng-Latn ,
         "වලල්ලාවිට"@sin-Sinh ,
         "வலல்லாவிட்டை"@tam-Taml ;
-    wdata:q7200235 "LK1339" ;
+    wdata:Q7200235 "LK1339" ;
 .
 
 <urn:mdciii:1603:16:144:3:2103>
@@ -888,7 +888,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Tumpane"@eng-Latn ,
         "තුම්පනේ"@sin-Sinh ,
         "தும்பனை"@tam-Taml ;
-    wdata:q7200235 "LK2103" ;
+    wdata:Q7200235 "LK2103" ;
 .
 
 <urn:mdciii:1603:16:144:3:2106>
@@ -901,7 +901,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Poojapitiya"@eng-Latn ,
         "පූජාපිටිය"@sin-Sinh ,
         "பூஜாப்பிட்டிய"@tam-Taml ;
-    wdata:q7200235 "LK2106" ;
+    wdata:Q7200235 "LK2106" ;
 .
 
 <urn:mdciii:1603:16:144:3:2109>
@@ -914,7 +914,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Akurana"@eng-Latn ,
         "අකුරණ"@sin-Sinh ,
         "அக்குரணை"@tam-Taml ;
-    wdata:q7200235 "LK2109" ;
+    wdata:Q7200235 "LK2109" ;
 .
 
 <urn:mdciii:1603:16:144:3:2112>
@@ -927,7 +927,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Pathadumbara"@eng-Latn ,
         "පාතදුම්බර"@sin-Sinh ,
         "பாத்ததும்பறை"@tam-Taml ;
-    wdata:q7200235 "LK2112" ;
+    wdata:Q7200235 "LK2112" ;
 .
 
 <urn:mdciii:1603:16:144:3:2115>
@@ -940,7 +940,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Panvila"@eng-Latn ,
         "පන්විල"@sin-Sinh ,
         "பன்விலை"@tam-Taml ;
-    wdata:q7200235 "LK2115" ;
+    wdata:Q7200235 "LK2115" ;
 .
 
 <urn:mdciii:1603:16:144:3:2118>
@@ -953,7 +953,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ududumbara"@eng-Latn ,
         "උඩදුම්බර"@sin-Sinh ,
         "உடதும்பறை"@tam-Taml ;
-    wdata:q7200235 "LK2118" ;
+    wdata:Q7200235 "LK2118" ;
 .
 
 <urn:mdciii:1603:16:144:3:2121>
@@ -966,7 +966,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Minipe"@eng-Latn ,
         "මිනිපේ"@sin-Sinh ,
         "மினிப்பே"@tam-Taml ;
-    wdata:q7200235 "LK2121" ;
+    wdata:Q7200235 "LK2121" ;
 .
 
 <urn:mdciii:1603:16:144:3:2124>
@@ -979,7 +979,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Medadumbara"@eng-Latn ,
         "මැදදුම්බර"@sin-Sinh ,
         "மெடதும்பறை"@tam-Taml ;
-    wdata:q7200235 "LK2124" ;
+    wdata:Q7200235 "LK2124" ;
 .
 
 <urn:mdciii:1603:16:144:3:2127>
@@ -992,7 +992,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kundasale"@eng-Latn ,
         "කුන්ඩසාලේ"@sin-Sinh ,
         "குண்டசாலை"@tam-Taml ;
-    wdata:q7200235 "LK2127" ;
+    wdata:Q7200235 "LK2127" ;
 .
 
 <urn:mdciii:1603:16:144:3:2130>
@@ -1005,7 +1005,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Gangawata Korale"@eng-Latn ,
         "ගඟවටකෝරලේ"@sin-Sinh ,
         "கண்டி"@tam-Taml ;
-    wdata:q7200235 "LK2130" ;
+    wdata:Q7200235 "LK2130" ;
 .
 
 <urn:mdciii:1603:16:144:3:2133>
@@ -1018,7 +1018,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Harispattuwa"@eng-Latn ,
         "හාරිස්පත්තුව"@sin-Sinh ,
         "கரிஸ்பத்துவை"@tam-Taml ;
-    wdata:q7200235 "LK2133" ;
+    wdata:Q7200235 "LK2133" ;
 .
 
 <urn:mdciii:1603:16:144:3:2134>
@@ -1031,7 +1031,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Hatharaliyadda"@eng-Latn ,
         "හතරලියද්ද"@sin-Sinh ,
         "கத்தராலியட்டை"@tam-Taml ;
-    wdata:q7200235 "LK2134" ;
+    wdata:Q7200235 "LK2134" ;
 .
 
 <urn:mdciii:1603:16:144:3:2136>
@@ -1044,7 +1044,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Yatinuwara"@eng-Latn ,
         "යටිනුවර"@sin-Sinh ,
         "யட்டிநுவரை"@tam-Taml ;
-    wdata:q7200235 "LK2136" ;
+    wdata:Q7200235 "LK2136" ;
 .
 
 <urn:mdciii:1603:16:144:3:2139>
@@ -1057,7 +1057,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Udunuwara"@eng-Latn ,
         "උඩුනුවර"@sin-Sinh ,
         "உடுநுவரை"@tam-Taml ;
-    wdata:q7200235 "LK2139" ;
+    wdata:Q7200235 "LK2139" ;
 .
 
 <urn:mdciii:1603:16:144:3:2142>
@@ -1070,7 +1070,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Doluwa"@eng-Latn ,
         "දොලුව"@sin-Sinh ,
         "டொலுவை"@tam-Taml ;
-    wdata:q7200235 "LK2142" ;
+    wdata:Q7200235 "LK2142" ;
 .
 
 <urn:mdciii:1603:16:144:3:2145>
@@ -1083,7 +1083,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Pathahewaheta"@eng-Latn ,
         "පාතහේවාහැට"@sin-Sinh ,
         "பாத்ததேவாகிட்டை"@tam-Taml ;
-    wdata:q7200235 "LK2145" ;
+    wdata:Q7200235 "LK2145" ;
 .
 
 <urn:mdciii:1603:16:144:3:2148>
@@ -1096,7 +1096,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Deltota"@eng-Latn ,
         "දෙල්තොට"@sin-Sinh ,
         "தெல்தோட்டை"@tam-Taml ;
-    wdata:q7200235 "LK2148" ;
+    wdata:Q7200235 "LK2148" ;
 .
 
 <urn:mdciii:1603:16:144:3:2151>
@@ -1109,7 +1109,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Udapalatha"@eng-Latn ,
         "උඩපළාත"@sin-Sinh ,
         "உடபத்தளை"@tam-Taml ;
-    wdata:q7200235 "LK2151" ;
+    wdata:Q7200235 "LK2151" ;
 .
 
 <urn:mdciii:1603:16:144:3:2154>
@@ -1122,7 +1122,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ganga Ihala Korale"@eng-Latn ,
         "ගඟඉහළකෝරලේ"@sin-Sinh ,
         "கங்கா இகலை"@tam-Taml ;
-    wdata:q7200235 "LK2154" ;
+    wdata:Q7200235 "LK2154" ;
 .
 
 <urn:mdciii:1603:16:144:3:2157>
@@ -1135,7 +1135,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Pasbagekorale"@eng-Latn ,
         "පස්බාගේකෝරලේ"@sin-Sinh ,
         "பஸ்பாகே கோரளை"@tam-Taml ;
-    wdata:q7200235 "LK2157" ;
+    wdata:Q7200235 "LK2157" ;
 .
 
 <urn:mdciii:1603:16:144:3:2203>
@@ -1148,7 +1148,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Galewela"@eng-Latn ,
         "ගලේවෙල"@sin-Sinh ,
         "கலேவளை"@tam-Taml ;
-    wdata:q7200235 "LK2203" ;
+    wdata:Q7200235 "LK2203" ;
 .
 
 <urn:mdciii:1603:16:144:3:2206>
@@ -1161,7 +1161,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Dambulla"@eng-Latn ,
         "දඹුල්ල"@sin-Sinh ,
         "தம்புள்ளை"@tam-Taml ;
-    wdata:q7200235 "LK2206" ;
+    wdata:Q7200235 "LK2206" ;
 .
 
 <urn:mdciii:1603:16:144:3:2209>
@@ -1174,7 +1174,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Naula"@eng-Latn ,
         "නාඋල"@sin-Sinh ,
         "நாவுலை"@tam-Taml ;
-    wdata:q7200235 "LK2209" ;
+    wdata:Q7200235 "LK2209" ;
 .
 
 <urn:mdciii:1603:16:144:3:2212>
@@ -1187,7 +1187,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Pallepola"@eng-Latn ,
         "පල්ලේපොල"@sin-Sinh ,
         "பல்லேபொளை"@tam-Taml ;
-    wdata:q7200235 "LK2212" ;
+    wdata:Q7200235 "LK2212" ;
 .
 
 <urn:mdciii:1603:16:144:3:2215>
@@ -1200,7 +1200,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Yatawatta"@eng-Latn ,
         "යටවත්ත"@sin-Sinh ,
         "யட்டவத்தை"@tam-Taml ;
-    wdata:q7200235 "LK2215" ;
+    wdata:Q7200235 "LK2215" ;
 .
 
 <urn:mdciii:1603:16:144:3:2218>
@@ -1213,7 +1213,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Matale"@eng-Latn ,
         "මාතලේ"@sin-Sinh ,
         "மாத்தளை"@tam-Taml ;
-    wdata:q7200235 "LK2218" ;
+    wdata:Q7200235 "LK2218" ;
 .
 
 <urn:mdciii:1603:16:144:3:2221>
@@ -1226,7 +1226,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ambanganga"@eng-Latn ,
         "අඹන්ගඟ"@sin-Sinh ,
         "அம்பன்கங்கை கோரளை"@tam-Taml ;
-    wdata:q7200235 "LK2221" ;
+    wdata:Q7200235 "LK2221" ;
 .
 
 <urn:mdciii:1603:16:144:3:2224>
@@ -1239,7 +1239,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Laggala"@eng-Latn ,
         "ලග්ගල"@sin-Sinh ,
         "லக்கலை-பல்லேகமை"@tam-Taml ;
-    wdata:q7200235 "LK2224" ;
+    wdata:Q7200235 "LK2224" ;
 .
 
 <urn:mdciii:1603:16:144:3:2227>
@@ -1252,7 +1252,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Wilgamuwa"@eng-Latn ,
         "විල්ගමුව"@sin-Sinh ,
         "வில்கமுவை"@tam-Taml ;
-    wdata:q7200235 "LK2227" ;
+    wdata:Q7200235 "LK2227" ;
 .
 
 <urn:mdciii:1603:16:144:3:2230>
@@ -1265,7 +1265,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Rattota"@eng-Latn ,
         "රත්තොට"@sin-Sinh ,
         "ரத்தோட்டை"@tam-Taml ;
-    wdata:q7200235 "LK2230" ;
+    wdata:Q7200235 "LK2230" ;
 .
 
 <urn:mdciii:1603:16:144:3:2233>
@@ -1278,7 +1278,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ukuwela"@eng-Latn ,
         "උකුවෙල"@sin-Sinh ,
         "உக்குவெலை"@tam-Taml ;
-    wdata:q7200235 "LK2233" ;
+    wdata:Q7200235 "LK2233" ;
 .
 
 <urn:mdciii:1603:16:144:3:2303>
@@ -1291,7 +1291,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kothmale"@eng-Latn ,
         "කොත්මලේ"@sin-Sinh ,
         "கொத்மலை"@tam-Taml ;
-    wdata:q7200235 "LK2303" ;
+    wdata:Q7200235 "LK2303" ;
 .
 
 <urn:mdciii:1603:16:144:3:2306>
@@ -1304,7 +1304,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Hanguranketa"@eng-Latn ,
         "හගුරන්කේත"@sin-Sinh ,
         "ஹங்குரன்கெத்தை"@tam-Taml ;
-    wdata:q7200235 "LK2306" ;
+    wdata:Q7200235 "LK2306" ;
 .
 
 <urn:mdciii:1603:16:144:3:2309>
@@ -1317,7 +1317,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Walapane"@eng-Latn ,
         "වලපනේ"@sin-Sinh ,
         "வலப்பனை"@tam-Taml ;
-    wdata:q7200235 "LK2309" ;
+    wdata:Q7200235 "LK2309" ;
 .
 
 <urn:mdciii:1603:16:144:3:2312>
@@ -1330,7 +1330,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Nuwara Eliya"@eng-Latn ,
         "නුවර එළිය"@sin-Sinh ,
         "நுவரெலியா"@tam-Taml ;
-    wdata:q7200235 "LK2312" ;
+    wdata:Q7200235 "LK2312" ;
 .
 
 <urn:mdciii:1603:16:144:3:2315>
@@ -1343,7 +1343,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ambagamuwa"@eng-Latn ,
         "අඹගමුව"@sin-Sinh ,
         "அம்பகமுவை"@tam-Taml ;
-    wdata:q7200235 "LK2315" ;
+    wdata:Q7200235 "LK2315" ;
 .
 
 <urn:mdciii:1603:16:144:3:3103>
@@ -1356,7 +1356,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Bentota"@eng-Latn ,
         "බෙන්තොට"@sin-Sinh ,
         "பெந்தோட்டை"@tam-Taml ;
-    wdata:q7200235 "LK3103" ;
+    wdata:Q7200235 "LK3103" ;
 .
 
 <urn:mdciii:1603:16:144:3:3106>
@@ -1369,7 +1369,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Balapitiya"@eng-Latn ,
         "බලපිටිය"@sin-Sinh ,
         "பலப்பிட்டி"@tam-Taml ;
-    wdata:q7200235 "LK3106" ;
+    wdata:Q7200235 "LK3106" ;
 .
 
 <urn:mdciii:1603:16:144:3:3109>
@@ -1382,7 +1382,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Karandeniya"@eng-Latn ,
         "කරන්දෙනිය"@sin-Sinh ,
         "கரந்தெனிய"@tam-Taml ;
-    wdata:q7200235 "LK3109" ;
+    wdata:Q7200235 "LK3109" ;
 .
 
 <urn:mdciii:1603:16:144:3:3112>
@@ -1395,7 +1395,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Elpitiya"@eng-Latn ,
         "ඇල්පිටිය"@sin-Sinh ,
         "எல்பிட்டி"@tam-Taml ;
-    wdata:q7200235 "LK3112" ;
+    wdata:Q7200235 "LK3112" ;
 .
 
 <urn:mdciii:1603:16:144:3:3115>
@@ -1408,7 +1408,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Niyagama"@eng-Latn ,
         "නියාගම"@sin-Sinh ,
         "நியாகமை"@tam-Taml ;
-    wdata:q7200235 "LK3115" ;
+    wdata:Q7200235 "LK3115" ;
 .
 
 <urn:mdciii:1603:16:144:3:3118>
@@ -1421,7 +1421,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Thawalama"@eng-Latn ,
         "තවලම"@sin-Sinh ,
         "தவலமை"@tam-Taml ;
-    wdata:q7200235 "LK3118" ;
+    wdata:Q7200235 "LK3118" ;
 .
 
 <urn:mdciii:1603:16:144:3:3121>
@@ -1434,7 +1434,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Neluwa"@eng-Latn ,
         "නෙළුව"@sin-Sinh ,
         "நெலுவை"@tam-Taml ;
-    wdata:q7200235 "LK3121" ;
+    wdata:Q7200235 "LK3121" ;
 .
 
 <urn:mdciii:1603:16:144:3:3124>
@@ -1447,7 +1447,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Nagoda"@eng-Latn ,
         "නාගොඩ"@sin-Sinh ,
         "நாகொடை"@tam-Taml ;
-    wdata:q7200235 "LK3124" ;
+    wdata:Q7200235 "LK3124" ;
 .
 
 <urn:mdciii:1603:16:144:3:3127>
@@ -1460,7 +1460,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Baddegama"@eng-Latn ,
         "බද්දේගම"@sin-Sinh ,
         "பத்தேகமை"@tam-Taml ;
-    wdata:q7200235 "LK3127" ;
+    wdata:Q7200235 "LK3127" ;
 .
 
 <urn:mdciii:1603:16:144:3:3130>
@@ -1473,7 +1473,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Welivitiya-Divitura"@eng-Latn ,
         "වැලිවිටිය-දිවිතුර"@sin-Sinh ,
         "வெலிவிட்டிய திவிதுரை"@tam-Taml ;
-    wdata:q7200235 "LK3130" ;
+    wdata:Q7200235 "LK3130" ;
 .
 
 <urn:mdciii:1603:16:144:3:3133>
@@ -1486,7 +1486,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ambalangoda"@eng-Latn ,
         "අම්බලන්ගොඩ"@sin-Sinh ,
         "அம்பலாங்கொடை"@tam-Taml ;
-    wdata:q7200235 "LK3133" ;
+    wdata:Q7200235 "LK3133" ;
 .
 
 <urn:mdciii:1603:16:144:3:3134>
@@ -1499,7 +1499,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Gonapinuwala"@eng-Latn ,
         "ගෝනපීනුවල"@sin-Sinh ,
         "கோனபின்னுவலை"@tam-Taml ;
-    wdata:q7200235 "LK3134" ;
+    wdata:Q7200235 "LK3134" ;
 .
 
 <urn:mdciii:1603:16:144:3:3136>
@@ -1512,7 +1512,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Hikkaduwa"@eng-Latn ,
         "හික්කඩුව"@sin-Sinh ,
         "இக்கடுவை"@tam-Taml ;
-    wdata:q7200235 "LK3136" ;
+    wdata:Q7200235 "LK3136" ;
 .
 
 <urn:mdciii:1603:16:144:3:3139>
@@ -1525,7 +1525,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Galle4Gravets"@eng-Latn ,
         "කඩවත්සතර"@sin-Sinh ,
         "காலி"@tam-Taml ;
-    wdata:q7200235 "LK3139" ;
+    wdata:Q7200235 "LK3139" ;
 .
 
 <urn:mdciii:1603:16:144:3:3142>
@@ -1538,7 +1538,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Bope-Poddala"@eng-Latn ,
         "බෝපෙ-පෝද්දල"@sin-Sinh ,
         "போப்பே பொட்டலை"@tam-Taml ;
-    wdata:q7200235 "LK3142" ;
+    wdata:Q7200235 "LK3142" ;
 .
 
 <urn:mdciii:1603:16:144:3:3145>
@@ -1551,7 +1551,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Akmeemana"@eng-Latn ,
         "අක්මීමණ"@sin-Sinh ,
         "அக்மீமனை"@tam-Taml ;
-    wdata:q7200235 "LK3145" ;
+    wdata:Q7200235 "LK3145" ;
 .
 
 <urn:mdciii:1603:16:144:3:3148>
@@ -1564,7 +1564,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Yakkalamulla"@eng-Latn ,
         "යක්කලමුල්ල"@sin-Sinh ,
         "யக்கலமுல்லை"@tam-Taml ;
-    wdata:q7200235 "LK3148" ;
+    wdata:Q7200235 "LK3148" ;
 .
 
 <urn:mdciii:1603:16:144:3:3151>
@@ -1577,7 +1577,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Imaduwa"@eng-Latn ,
         "ඉමදුව"@sin-Sinh ,
         "இமதுவை"@tam-Taml ;
-    wdata:q7200235 "LK3151" ;
+    wdata:Q7200235 "LK3151" ;
 .
 
 <urn:mdciii:1603:16:144:3:3154>
@@ -1590,7 +1590,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Habaraduwa"@eng-Latn ,
         "හබරාදුව"@sin-Sinh ,
         "கபராதுவை"@tam-Taml ;
-    wdata:q7200235 "LK3154" ;
+    wdata:Q7200235 "LK3154" ;
 .
 
 <urn:mdciii:1603:16:144:3:3203>
@@ -1603,7 +1603,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Pitabaddara"@eng-Latn ,
         "පිටබැද්දර"@sin-Sinh ,
         "பிட்டபத்தறை"@tam-Taml ;
-    wdata:q7200235 "LK3203" ;
+    wdata:Q7200235 "LK3203" ;
 .
 
 <urn:mdciii:1603:16:144:3:3206>
@@ -1616,7 +1616,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kotapola"@eng-Latn ,
         "කොටපොල"@sin-Sinh ,
         "கொட்டப்பொலை"@tam-Taml ;
-    wdata:q7200235 "LK3206" ;
+    wdata:Q7200235 "LK3206" ;
 .
 
 <urn:mdciii:1603:16:144:3:3209>
@@ -1629,7 +1629,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Pasgoda"@eng-Latn ,
         "පස්ගොඩ"@sin-Sinh ,
         "பஸ்கொடை"@tam-Taml ;
-    wdata:q7200235 "LK3209" ;
+    wdata:Q7200235 "LK3209" ;
 .
 
 <urn:mdciii:1603:16:144:3:3212>
@@ -1642,7 +1642,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Mulatiyana"@eng-Latn ,
         "මුලටියන"@sin-Sinh ,
         "முலட்டியானை"@tam-Taml ;
-    wdata:q7200235 "LK3212" ;
+    wdata:Q7200235 "LK3212" ;
 .
 
 <urn:mdciii:1603:16:144:3:3215>
@@ -1655,7 +1655,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Athuraliya"@eng-Latn ,
         "අතුරලිය"@sin-Sinh ,
         "அத்துரலிய"@tam-Taml ;
-    wdata:q7200235 "LK3215" ;
+    wdata:Q7200235 "LK3215" ;
 .
 
 <urn:mdciii:1603:16:144:3:3218>
@@ -1668,7 +1668,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Akuressa"@eng-Latn ,
         "අකුරැස්ස"@sin-Sinh ,
         "அக்குரசை"@tam-Taml ;
-    wdata:q7200235 "LK3218" ;
+    wdata:Q7200235 "LK3218" ;
 .
 
 <urn:mdciii:1603:16:144:3:3221>
@@ -1681,7 +1681,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Welipitiya"@eng-Latn ,
         "වැලිපිටිය"@sin-Sinh ,
         "வெலிபிட்டிய"@tam-Taml ;
-    wdata:q7200235 "LK3221" ;
+    wdata:Q7200235 "LK3221" ;
 .
 
 <urn:mdciii:1603:16:144:3:3224>
@@ -1694,7 +1694,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Malimbada"@eng-Latn ,
         "මාලිම්බඩ"@sin-Sinh ,
         "மாலிம்படை"@tam-Taml ;
-    wdata:q7200235 "LK3224" ;
+    wdata:Q7200235 "LK3224" ;
 .
 
 <urn:mdciii:1603:16:144:3:3227>
@@ -1707,7 +1707,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kaburupitiya"@eng-Latn ,
         "කඹුරුපිටිය"@sin-Sinh ,
         "கம்புறுபிட்டிய"@tam-Taml ;
-    wdata:q7200235 "LK3227" ;
+    wdata:Q7200235 "LK3227" ;
 .
 
 <urn:mdciii:1603:16:144:3:3230>
@@ -1720,7 +1720,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Hakmana"@eng-Latn ,
         "හක්මන"@sin-Sinh ,
         "கக்மனை"@tam-Taml ;
-    wdata:q7200235 "LK3230" ;
+    wdata:Q7200235 "LK3230" ;
 .
 
 <urn:mdciii:1603:16:144:3:3233>
@@ -1733,7 +1733,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kirinda Puhulwella"@eng-Latn ,
         "කිරින්ද පුහුල්වැල්ල"@sin-Sinh ,
         "கிரிந்தை புகுவெல்லை"@tam-Taml ;
-    wdata:q7200235 "LK3233" ;
+    wdata:Q7200235 "LK3233" ;
 .
 
 <urn:mdciii:1603:16:144:3:3236>
@@ -1746,7 +1746,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Thihagoda"@eng-Latn ,
         "තිහගොඩ"@sin-Sinh ,
         "திக்கொடை"@tam-Taml ;
-    wdata:q7200235 "LK3236" ;
+    wdata:Q7200235 "LK3236" ;
 .
 
 <urn:mdciii:1603:16:144:3:3239>
@@ -1759,7 +1759,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Weligama"@eng-Latn ,
         "වැලිගම"@sin-Sinh ,
         "வெலிகமை"@tam-Taml ;
-    wdata:q7200235 "LK3239" ;
+    wdata:Q7200235 "LK3239" ;
 .
 
 <urn:mdciii:1603:16:144:3:3242>
@@ -1772,7 +1772,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Matara Four Gravets"@eng-Latn ,
         "මාතර කඩවත්සතර"@sin-Sinh ,
         "மாத்தறை"@tam-Taml ;
-    wdata:q7200235 "LK3242" ;
+    wdata:Q7200235 "LK3242" ;
 .
 
 <urn:mdciii:1603:16:144:3:3245>
@@ -1785,7 +1785,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Devinuwara"@eng-Latn ,
         "දෙවිනුවර"@sin-Sinh ,
         "தெவிநுவரை"@tam-Taml ;
-    wdata:q7200235 "LK3245" ;
+    wdata:Q7200235 "LK3245" ;
 .
 
 <urn:mdciii:1603:16:144:3:3248>
@@ -1798,7 +1798,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Dikwella"@eng-Latn ,
         "දික්වැල්ල"@sin-Sinh ,
         "திக்வெலை"@tam-Taml ;
-    wdata:q7200235 "LK3248" ;
+    wdata:Q7200235 "LK3248" ;
 .
 
 <urn:mdciii:1603:16:144:3:3303>
@@ -1811,7 +1811,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Sooriyawewa"@eng-Latn ,
         "සූරියවැව"@sin-Sinh ,
         "சூரியவெவை"@tam-Taml ;
-    wdata:q7200235 "LK3303" ;
+    wdata:Q7200235 "LK3303" ;
 .
 
 <urn:mdciii:1603:16:144:3:3306>
@@ -1824,7 +1824,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Lunugamwehera"@eng-Latn ,
         "ලුණුගම්වෙහෙර"@sin-Sinh ,
         "லுனுகம்வெகரை"@tam-Taml ;
-    wdata:q7200235 "LK3306" ;
+    wdata:Q7200235 "LK3306" ;
 .
 
 <urn:mdciii:1603:16:144:3:3309>
@@ -1837,7 +1837,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Thissamaharama"@eng-Latn ,
         "තිස්සමහාරාම"@sin-Sinh ,
         "திஸ்சமகாராமை"@tam-Taml ;
-    wdata:q7200235 "LK3309" ;
+    wdata:Q7200235 "LK3309" ;
 .
 
 <urn:mdciii:1603:16:144:3:3312>
@@ -1850,7 +1850,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Hambantota"@eng-Latn ,
         "හම්බන්තොට"@sin-Sinh ,
         "அம்பாந்தோட்டை"@tam-Taml ;
-    wdata:q7200235 "LK3312" ;
+    wdata:Q7200235 "LK3312" ;
 .
 
 <urn:mdciii:1603:16:144:3:3315>
@@ -1863,7 +1863,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ambalantota"@eng-Latn ,
         "අම්බලන්තොට"@sin-Sinh ,
         "அம்பலாந்தோட்டை"@tam-Taml ;
-    wdata:q7200235 "LK3315" ;
+    wdata:Q7200235 "LK3315" ;
 .
 
 <urn:mdciii:1603:16:144:3:3318>
@@ -1876,7 +1876,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Angunakolapelessa"@eng-Latn ,
         "අඟුණුකොළපැලැස්ස"@sin-Sinh ,
         "அங்குனகொலபெலஸ்சை"@tam-Taml ;
-    wdata:q7200235 "LK3318" ;
+    wdata:Q7200235 "LK3318" ;
 .
 
 <urn:mdciii:1603:16:144:3:3321>
@@ -1889,7 +1889,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Weeraketiya"@eng-Latn ,
         "වීරකැටිය"@sin-Sinh ,
         "வீரகெட்டிய"@tam-Taml ;
-    wdata:q7200235 "LK3321" ;
+    wdata:Q7200235 "LK3321" ;
 .
 
 <urn:mdciii:1603:16:144:3:3324>
@@ -1902,7 +1902,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Katuwana"@eng-Latn ,
         "කටුවන"@sin-Sinh ,
         "கட்டுவனை"@tam-Taml ;
-    wdata:q7200235 "LK3324" ;
+    wdata:Q7200235 "LK3324" ;
 .
 
 <urn:mdciii:1603:16:144:3:3325>
@@ -1915,7 +1915,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Walasmulla"@eng-Latn ,
         "වලස්මුල්ල"@sin-Sinh ,
         "வலஸ்முல்லை"@tam-Taml ;
-    wdata:q7200235 "LK3325" ;
+    wdata:Q7200235 "LK3325" ;
 .
 
 <urn:mdciii:1603:16:144:3:3327>
@@ -1928,7 +1928,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Okewela"@eng-Latn ,
         "ඕකේවෙල"@sin-Sinh ,
         "ஒக்வெலை"@tam-Taml ;
-    wdata:q7200235 "LK3327" ;
+    wdata:Q7200235 "LK3327" ;
 .
 
 <urn:mdciii:1603:16:144:3:3330>
@@ -1941,7 +1941,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Beliatta"@eng-Latn ,
         "බෙලිඅත්ත"@sin-Sinh ,
         "பெலியத்தை"@tam-Taml ;
-    wdata:q7200235 "LK3330" ;
+    wdata:Q7200235 "LK3330" ;
 .
 
 <urn:mdciii:1603:16:144:3:3333>
@@ -1954,7 +1954,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Tangalle"@eng-Latn ,
         "තංගල්ල"@sin-Sinh ,
         "தங்காலை"@tam-Taml ;
-    wdata:q7200235 "LK3333" ;
+    wdata:Q7200235 "LK3333" ;
 .
 
 <urn:mdciii:1603:16:144:3:4100>
@@ -1967,7 +1967,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "[unknown]"@eng-Latn ,
         "[unknown]"@sin-Sinh ,
         "[unknown]"@tam-Taml ;
-    wdata:q7200235 "LK4100" ;
+    wdata:Q7200235 "LK4100" ;
 .
 
 <urn:mdciii:1603:16:144:3:4103>
@@ -1980,7 +1980,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Islands North (Kayts)"@eng-Latn ,
         "දුපත උතුර (කයිට්ස්)"@sin-Sinh ,
         "ஊர்காவற்றுறை"@tam-Taml ;
-    wdata:q7200235 "LK4103" ;
+    wdata:Q7200235 "LK4103" ;
 .
 
 <urn:mdciii:1603:16:144:3:4104>
@@ -1993,7 +1993,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Karainagar"@eng-Latn ,
         "කාරෛනගර්"@sin-Sinh ,
         "காரைநகர்"@tam-Taml ;
-    wdata:q7200235 "LK4104" ;
+    wdata:Q7200235 "LK4104" ;
 .
 
 <urn:mdciii:1603:16:144:3:4106>
@@ -2006,7 +2006,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Valikamam West (Chankanai)"@eng-Latn ,
         "වලිකාමම් බටහිර (චන්කානෛයි)"@sin-Sinh ,
         "சங்கானை"@tam-Taml ;
-    wdata:q7200235 "LK4106" ;
+    wdata:Q7200235 "LK4106" ;
 .
 
 <urn:mdciii:1603:16:144:3:4109>
@@ -2019,7 +2019,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Valikamam South West (Sandilipay)"@eng-Latn ,
         "වලිකාමම් නිරිත (සංදිලිපේ)"@sin-Sinh ,
         "சண்டிலிப்பாய்"@tam-Taml ;
-    wdata:q7200235 "LK4109" ;
+    wdata:Q7200235 "LK4109" ;
 .
 
 <urn:mdciii:1603:16:144:3:4112>
@@ -2032,7 +2032,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Valikamam North (Thllippalai)"@eng-Latn ,
         "වලිකාමම් උතුර (තෙල්ලිපලෛයි)"@sin-Sinh ,
         "தெல்லிப்பழை"@tam-Taml ;
-    wdata:q7200235 "LK4112" ;
+    wdata:Q7200235 "LK4112" ;
 .
 
 <urn:mdciii:1603:16:144:3:4115>
@@ -2045,7 +2045,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Valikamam South (Uduvil)"@eng-Latn ,
         "වලිකාමම් දකුණ (උඩුවිල)"@sin-Sinh ,
         "உடுவில்"@tam-Taml ;
-    wdata:q7200235 "LK4115" ;
+    wdata:Q7200235 "LK4115" ;
 .
 
 <urn:mdciii:1603:16:144:3:4118>
@@ -2058,7 +2058,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Valikamam East (Kopay)"@eng-Latn ,
         "වලිකාමම් නැගෙනහිර (කෝපායි)"@sin-Sinh ,
         "கோப்பாய்"@tam-Taml ;
-    wdata:q7200235 "LK4118" ;
+    wdata:Q7200235 "LK4118" ;
 .
 
 <urn:mdciii:1603:16:144:3:4121>
@@ -2071,7 +2071,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Vadamaradchchi South-West (Karaveddy)"@eng-Latn ,
         "වඩමාරච්චි නිරිත (කරවෙඩ්ඩිය)"@sin-Sinh ,
         "கரவெட்டி"@tam-Taml ;
-    wdata:q7200235 "LK4121" ;
+    wdata:Q7200235 "LK4121" ;
 .
 
 <urn:mdciii:1603:16:144:3:4124>
@@ -2084,7 +2084,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Vadamaradchchi East"@eng-Latn ,
         "වඩමාරච්චි නැගෙනහිර"@sin-Sinh ,
         "மருதங்கேணி"@tam-Taml ;
-    wdata:q7200235 "LK4124" ;
+    wdata:Q7200235 "LK4124" ;
 .
 
 <urn:mdciii:1603:16:144:3:4127>
@@ -2097,7 +2097,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Vadamaradchi North (Point Pedro)"@eng-Latn ,
         "වඩමාරච්චි උතුර (පේදුරු තුඩුව)"@sin-Sinh ,
         "பருத்தித்துறை"@tam-Taml ;
-    wdata:q7200235 "LK4127" ;
+    wdata:Q7200235 "LK4127" ;
 .
 
 <urn:mdciii:1603:16:144:3:4130>
@@ -2110,7 +2110,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Thenmaradchi (Chavakachcheri)"@eng-Latn ,
         "තේන්මාරච්චි (ජාවකච්චේරි)"@sin-Sinh ,
         "சாவகச்சேரி"@tam-Taml ;
-    wdata:q7200235 "LK4130" ;
+    wdata:Q7200235 "LK4130" ;
 .
 
 <urn:mdciii:1603:16:144:3:4133>
@@ -2123,7 +2123,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Nallur"@eng-Latn ,
         "නල්ලූර්"@sin-Sinh ,
         "நல்லூர்"@tam-Taml ;
-    wdata:q7200235 "LK4133" ;
+    wdata:Q7200235 "LK4133" ;
 .
 
 <urn:mdciii:1603:16:144:3:4136>
@@ -2136,7 +2136,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Jaffna"@eng-Latn ,
         "යාපනය"@sin-Sinh ,
         "யாழ்ப்பாணம்"@tam-Taml ;
-    wdata:q7200235 "LK4136" ;
+    wdata:Q7200235 "LK4136" ;
 .
 
 <urn:mdciii:1603:16:144:3:4139>
@@ -2149,7 +2149,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Islands South (Velanai)"@eng-Latn ,
         "දුපත දකුණ (වෙලනයි)"@sin-Sinh ,
         "வேலணை"@tam-Taml ;
-    wdata:q7200235 "LK4139" ;
+    wdata:Q7200235 "LK4139" ;
 .
 
 <urn:mdciii:1603:16:144:3:4142>
@@ -2162,7 +2162,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Delft"@eng-Latn ,
         "ඩෙල්ෆ්"@sin-Sinh ,
         "நெடுந்தீவு"@tam-Taml ;
-    wdata:q7200235 "LK4142" ;
+    wdata:Q7200235 "LK4142" ;
 .
 
 <urn:mdciii:1603:16:144:3:4203>
@@ -2175,7 +2175,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Mannar Town"@eng-Latn ,
         "මන්නාරම නගර"@sin-Sinh ,
         "மன்னார் நகரம்"@tam-Taml ;
-    wdata:q7200235 "LK4203" ;
+    wdata:Q7200235 "LK4203" ;
 .
 
 <urn:mdciii:1603:16:144:3:4206>
@@ -2188,7 +2188,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Manthai West"@eng-Latn ,
         "මාන්තෛ බටහිර"@sin-Sinh ,
         "மாந்தை மேற்கு"@tam-Taml ;
-    wdata:q7200235 "LK4206" ;
+    wdata:Q7200235 "LK4206" ;
 .
 
 <urn:mdciii:1603:16:144:3:4209>
@@ -2201,7 +2201,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Madhu"@eng-Latn ,
         "මඩු"@sin-Sinh ,
         "மடு"@tam-Taml ;
-    wdata:q7200235 "LK4209" ;
+    wdata:Q7200235 "LK4209" ;
 .
 
 <urn:mdciii:1603:16:144:3:4212>
@@ -2214,7 +2214,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Nanaddan"@eng-Latn ,
         "නානාට්ටාන්"@sin-Sinh ,
         "நானாட்டான்"@tam-Taml ;
-    wdata:q7200235 "LK4212" ;
+    wdata:Q7200235 "LK4212" ;
 .
 
 <urn:mdciii:1603:16:144:3:4215>
@@ -2227,7 +2227,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Musali"@eng-Latn ,
         "මූසාලේ"@sin-Sinh ,
         "முசலி"@tam-Taml ;
-    wdata:q7200235 "LK4215" ;
+    wdata:Q7200235 "LK4215" ;
 .
 
 <urn:mdciii:1603:16:144:3:4303>
@@ -2240,7 +2240,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Vavuniya North"@eng-Latn ,
         "වවුනියාව උතුර"@sin-Sinh ,
         "வவுனியா வடக்கு"@tam-Taml ;
-    wdata:q7200235 "LK4303" ;
+    wdata:Q7200235 "LK4303" ;
 .
 
 <urn:mdciii:1603:16:144:3:4306>
@@ -2253,7 +2253,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Vavuniya South"@eng-Latn ,
         "වවුනියාව දකුණ"@sin-Sinh ,
         "வவுனியா தெற்கு"@tam-Taml ;
-    wdata:q7200235 "LK4306" ;
+    wdata:Q7200235 "LK4306" ;
 .
 
 <urn:mdciii:1603:16:144:3:4309>
@@ -2266,7 +2266,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Vavuniya"@eng-Latn ,
         "වවුනියාව"@sin-Sinh ,
         "வவுனியா"@tam-Taml ;
-    wdata:q7200235 "LK4309" ;
+    wdata:Q7200235 "LK4309" ;
 .
 
 <urn:mdciii:1603:16:144:3:4312>
@@ -2279,7 +2279,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Vengalacheddikulam"@eng-Latn ,
         "වෙන්ගලචෙඩ්ඩිකුලම"@sin-Sinh ,
         "வெங்கலச்செட்டிக்குளம்"@tam-Taml ;
-    wdata:q7200235 "LK4312" ;
+    wdata:Q7200235 "LK4312" ;
 .
 
 <urn:mdciii:1603:16:144:3:4403>
@@ -2292,7 +2292,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Thunukkai"@eng-Latn ,
         "තුනුක්‌කායි"@sin-Sinh ,
         "துணுக்காய்"@tam-Taml ;
-    wdata:q7200235 "LK4403" ;
+    wdata:Q7200235 "LK4403" ;
 .
 
 <urn:mdciii:1603:16:144:3:4406>
@@ -2305,7 +2305,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Manthai East"@eng-Latn ,
         "මාන්තේ නැගෙනහිර"@sin-Sinh ,
         "மாந்தை கிழக்கு"@tam-Taml ;
-    wdata:q7200235 "LK4406" ;
+    wdata:Q7200235 "LK4406" ;
 .
 
 <urn:mdciii:1603:16:144:3:4409>
@@ -2318,7 +2318,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Puthukkudiyiruppu"@eng-Latn ,
         "පුදුකුඩිඉරිප්පු"@sin-Sinh ,
         "புதுக்குடியிருப்பு"@tam-Taml ;
-    wdata:q7200235 "LK4409" ;
+    wdata:Q7200235 "LK4409" ;
 .
 
 <urn:mdciii:1603:16:144:3:4412>
@@ -2331,7 +2331,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Oddusuddan"@eng-Latn ,
         "ඔඩ්ඩුසුඩාන්"@sin-Sinh ,
         "ஒட்டுசுட்டான்"@tam-Taml ;
-    wdata:q7200235 "LK4412" ;
+    wdata:Q7200235 "LK4412" ;
 .
 
 <urn:mdciii:1603:16:144:3:4415>
@@ -2344,7 +2344,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Maritimepattu"@eng-Latn ,
         "මුහුදුබඩපත්තුව"@sin-Sinh ,
         "கரைதுறைப்பற்று"@tam-Taml ;
-    wdata:q7200235 "LK4415" ;
+    wdata:Q7200235 "LK4415" ;
 .
 
 <urn:mdciii:1603:16:144:3:4418>
@@ -2357,7 +2357,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Welioya"@eng-Latn ,
         "වැලි ඔය"@sin-Sinh ,
         "மனல் ஆரு"@tam-Taml ;
-    wdata:q7200235 "LK4418" ;
+    wdata:Q7200235 "LK4418" ;
 .
 
 <urn:mdciii:1603:16:144:3:4503>
@@ -2370,7 +2370,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Pachchilaipalli"@eng-Latn ,
         "පලෙයි (පච්චිලේපලෙයි)"@sin-Sinh ,
         "பச்சிலைப்பள்ளி"@tam-Taml ;
-    wdata:q7200235 "LK4503" ;
+    wdata:Q7200235 "LK4503" ;
 .
 
 <urn:mdciii:1603:16:144:3:4506>
@@ -2383,7 +2383,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kandavalai"@eng-Latn ,
         "කණ්ඩාවලෙයි"@sin-Sinh ,
         "கண்டாவளை"@tam-Taml ;
-    wdata:q7200235 "LK4506" ;
+    wdata:Q7200235 "LK4506" ;
 .
 
 <urn:mdciii:1603:16:144:3:4509>
@@ -2396,7 +2396,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Karachchi"@eng-Latn ,
         "කරච්චි"@sin-Sinh ,
         "கரைச்சி"@tam-Taml ;
-    wdata:q7200235 "LK4509" ;
+    wdata:Q7200235 "LK4509" ;
 .
 
 <urn:mdciii:1603:16:144:3:4512>
@@ -2409,7 +2409,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Poonakary"@eng-Latn ,
         "පුනරීන්"@sin-Sinh ,
         "பூநகரி"@tam-Taml ;
-    wdata:q7200235 "LK4512" ;
+    wdata:Q7200235 "LK4512" ;
 .
 
 <urn:mdciii:1603:16:144:3:5100>
@@ -2422,7 +2422,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "[unknown]"@eng-Latn ,
         "[unknown]"@sin-Sinh ,
         "[unknown]"@tam-Taml ;
-    wdata:q7200235 "LK5100" ;
+    wdata:Q7200235 "LK5100" ;
 .
 
 <urn:mdciii:1603:16:144:3:5103>
@@ -2435,7 +2435,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Koralai Pattu North"@eng-Latn ,
         "කෝරළේ පත්තු උතුර"@sin-Sinh ,
         "கோறளைப் பற்று வடக்கு"@tam-Taml ;
-    wdata:q7200235 "LK5103" ;
+    wdata:Q7200235 "LK5103" ;
 .
 
 <urn:mdciii:1603:16:144:3:5104>
@@ -2448,7 +2448,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Koralai Pattu Central"@eng-Latn ,
         "කෝරළේ පත්තු මධ්‍යම"@sin-Sinh ,
         "கோறளைப் பற்று மத்தி"@tam-Taml ;
-    wdata:q7200235 "LK5104" ;
+    wdata:Q7200235 "LK5104" ;
 .
 
 <urn:mdciii:1603:16:144:3:5106>
@@ -2461,7 +2461,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Koralai Pattu West"@eng-Latn ,
         "කෝරළේ පත්තු බටහිර"@sin-Sinh ,
         "கோறளைப் பற்று மேற்கு"@tam-Taml ;
-    wdata:q7200235 "LK5106" ;
+    wdata:Q7200235 "LK5106" ;
 .
 
 <urn:mdciii:1603:16:144:3:5109>
@@ -2474,7 +2474,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Koralai Pattu"@eng-Latn ,
         "කෝරළේ පත්තු"@sin-Sinh ,
         "கோறளைப் பற்று"@tam-Taml ;
-    wdata:q7200235 "LK5109" ;
+    wdata:Q7200235 "LK5109" ;
 .
 
 <urn:mdciii:1603:16:144:3:5110>
@@ -2487,7 +2487,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Koralai Pattu South"@eng-Latn ,
         "කෝරළේ පත්තු දකුණ"@sin-Sinh ,
         "கோறளைப் பற்று தெற்கு"@tam-Taml ;
-    wdata:q7200235 "LK5110" ;
+    wdata:Q7200235 "LK5110" ;
 .
 
 <urn:mdciii:1603:16:144:3:5112>
@@ -2500,7 +2500,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Eravur Pattu"@eng-Latn ,
         "එරාවූර් පත්තු"@sin-Sinh ,
         "ஏறாவூர்ப் பற்று"@tam-Taml ;
-    wdata:q7200235 "LK5112" ;
+    wdata:Q7200235 "LK5112" ;
 .
 
 <urn:mdciii:1603:16:144:3:5115>
@@ -2513,7 +2513,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Eravur Town"@eng-Latn ,
         "එරාවූර් නගර"@sin-Sinh ,
         "ஏறாவூர் நகரம்"@tam-Taml ;
-    wdata:q7200235 "LK5115" ;
+    wdata:Q7200235 "LK5115" ;
 .
 
 <urn:mdciii:1603:16:144:3:5118>
@@ -2526,7 +2526,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Manmunai North"@eng-Latn ,
         "මාන්මුනේ උතුර"@sin-Sinh ,
         "மண்முனை வடக்கு"@tam-Taml ;
-    wdata:q7200235 "LK5118" ;
+    wdata:Q7200235 "LK5118" ;
 .
 
 <urn:mdciii:1603:16:144:3:5121>
@@ -2539,7 +2539,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Manmunai West"@eng-Latn ,
         "මාන්මුනේ බටහිර"@sin-Sinh ,
         "மண்முனை மேற்கு"@tam-Taml ;
-    wdata:q7200235 "LK5121" ;
+    wdata:Q7200235 "LK5121" ;
 .
 
 <urn:mdciii:1603:16:144:3:5124>
@@ -2552,7 +2552,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kattankudy"@eng-Latn ,
         "කාත්තන්කුඩි"@sin-Sinh ,
         "காத்தான்குடி"@tam-Taml ;
-    wdata:q7200235 "LK5124" ;
+    wdata:Q7200235 "LK5124" ;
 .
 
 <urn:mdciii:1603:16:144:3:5127>
@@ -2565,7 +2565,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Manmunai Pattu"@eng-Latn ,
         "මාන්මුනේ පත්තු"@sin-Sinh ,
         "மண்முனைப் பற்று"@tam-Taml ;
-    wdata:q7200235 "LK5127" ;
+    wdata:Q7200235 "LK5127" ;
 .
 
 <urn:mdciii:1603:16:144:3:5130>
@@ -2578,7 +2578,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Manmunai South West"@eng-Latn ,
         "මාන්මුනේ නිරිත"@sin-Sinh ,
         "மண்முனை தென் மேற்கு"@tam-Taml ;
-    wdata:q7200235 "LK5130" ;
+    wdata:Q7200235 "LK5130" ;
 .
 
 <urn:mdciii:1603:16:144:3:5133>
@@ -2591,7 +2591,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Porativu Pattu"@eng-Latn ,
         "පොරතිවු පත්තු"@sin-Sinh ,
         "போரதீவுப்பற்று"@tam-Taml ;
-    wdata:q7200235 "LK5133" ;
+    wdata:Q7200235 "LK5133" ;
 .
 
 <urn:mdciii:1603:16:144:3:5136>
@@ -2604,7 +2604,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Manmunai South & Eruvil Pattu"@eng-Latn ,
         "මාන්මුනේ දකුණ සහ එරුවිල් පත්තු"@sin-Sinh ,
         "மண்முனை தெற்கும் எருவில் பற்றும்"@tam-Taml ;
-    wdata:q7200235 "LK5136" ;
+    wdata:Q7200235 "LK5136" ;
 .
 
 <urn:mdciii:1603:16:144:3:5203>
@@ -2617,7 +2617,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Dehiattakandiya"@eng-Latn ,
         "දෙහිඅත්තකණ්ඩිය"@sin-Sinh ,
         "தெகியத்தகண்டிய"@tam-Taml ;
-    wdata:q7200235 "LK5203" ;
+    wdata:Q7200235 "LK5203" ;
 .
 
 <urn:mdciii:1603:16:144:3:5206>
@@ -2630,7 +2630,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Padiyathalawa"@eng-Latn ,
         "පදියතලාව"@sin-Sinh ,
         "பதியத்தலாவை"@tam-Taml ;
-    wdata:q7200235 "LK5206" ;
+    wdata:Q7200235 "LK5206" ;
 .
 
 <urn:mdciii:1603:16:144:3:5209>
@@ -2643,7 +2643,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Mahaoya"@eng-Latn ,
         "මහඔය"@sin-Sinh ,
         "மகா ஓயா"@tam-Taml ;
-    wdata:q7200235 "LK5209" ;
+    wdata:Q7200235 "LK5209" ;
 .
 
 <urn:mdciii:1603:16:144:3:5212>
@@ -2656,7 +2656,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Uhana"@eng-Latn ,
         "උහන"@sin-Sinh ,
         "உகணை"@tam-Taml ;
-    wdata:q7200235 "LK5212" ;
+    wdata:Q7200235 "LK5212" ;
 .
 
 <urn:mdciii:1603:16:144:3:5215>
@@ -2669,7 +2669,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ampara"@eng-Latn ,
         "අම්පාර"@sin-Sinh ,
         "அம்பாறை"@tam-Taml ;
-    wdata:q7200235 "LK5215" ;
+    wdata:Q7200235 "LK5215" ;
 .
 
 <urn:mdciii:1603:16:144:3:5216>
@@ -2682,7 +2682,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Navithanveli"@eng-Latn ,
         "නවිදන්වැලි"@sin-Sinh ,
         "நாவிதன்வெளி"@tam-Taml ;
-    wdata:q7200235 "LK5216" ;
+    wdata:Q7200235 "LK5216" ;
 .
 
 <urn:mdciii:1603:16:144:3:5218>
@@ -2695,7 +2695,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Sammanthurai"@eng-Latn ,
         "සම්මන්තුරේ"@sin-Sinh ,
         "சம்மாந்துறை"@tam-Taml ;
-    wdata:q7200235 "LK5218" ;
+    wdata:Q7200235 "LK5218" ;
 .
 
 <urn:mdciii:1603:16:144:3:5221>
@@ -2708,7 +2708,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kalmunai"@eng-Latn ,
         "කල්මුනේ"@sin-Sinh ,
         "கல்முனை"@tam-Taml ;
-    wdata:q7200235 "LK5221" ;
+    wdata:Q7200235 "LK5221" ;
 .
 
 <urn:mdciii:1603:16:144:3:5225>
@@ -2721,7 +2721,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Sainthamaruthu"@eng-Latn ,
         "සයින්දමරුතු"@sin-Sinh ,
         "சாய்ந்தமருது"@tam-Taml ;
-    wdata:q7200235 "LK5225" ;
+    wdata:Q7200235 "LK5225" ;
 .
 
 <urn:mdciii:1603:16:144:3:5227>
@@ -2734,7 +2734,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Karaitivu"@eng-Latn ,
         "කරෙයිතිවු"@sin-Sinh ,
         "காரைதீவு"@tam-Taml ;
-    wdata:q7200235 "LK5227" ;
+    wdata:Q7200235 "LK5227" ;
 .
 
 <urn:mdciii:1603:16:144:3:5230>
@@ -2747,7 +2747,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Nintavur"@eng-Latn ,
         "නීන්දවුර්"@sin-Sinh ,
         "நிந்தவூர்"@tam-Taml ;
-    wdata:q7200235 "LK5230" ;
+    wdata:Q7200235 "LK5230" ;
 .
 
 <urn:mdciii:1603:16:144:3:5233>
@@ -2760,7 +2760,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Addalaichenai"@eng-Latn ,
         "අඩ්ඩාලච්චේන"@sin-Sinh ,
         "அட்டாளைச்சேனை"@tam-Taml ;
-    wdata:q7200235 "LK5233" ;
+    wdata:Q7200235 "LK5233" ;
 .
 
 <urn:mdciii:1603:16:144:3:5234>
@@ -2773,7 +2773,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Irakkamam"@eng-Latn ,
         "ඉරක්කාමම්"@sin-Sinh ,
         "இறக்காமம்"@tam-Taml ;
-    wdata:q7200235 "LK5234" ;
+    wdata:Q7200235 "LK5234" ;
 .
 
 <urn:mdciii:1603:16:144:3:5236>
@@ -2786,7 +2786,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Akkaraipattu"@eng-Latn ,
         "අක්කරපත්තුව"@sin-Sinh ,
         "அக்கறைப்பற்று"@tam-Taml ;
-    wdata:q7200235 "LK5236" ;
+    wdata:Q7200235 "LK5236" ;
 .
 
 <urn:mdciii:1603:16:144:3:5239>
@@ -2799,7 +2799,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Alayadivembu"@eng-Latn ,
         "අලයාඩිවෙම්බු"@sin-Sinh ,
         "ஆலயடிவேம்பு"@tam-Taml ;
-    wdata:q7200235 "LK5239" ;
+    wdata:Q7200235 "LK5239" ;
 .
 
 <urn:mdciii:1603:16:144:3:5242>
@@ -2812,7 +2812,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Damana"@eng-Latn ,
         "දමන"@sin-Sinh ,
         "தமனை"@tam-Taml ;
-    wdata:q7200235 "LK5242" ;
+    wdata:Q7200235 "LK5242" ;
 .
 
 <urn:mdciii:1603:16:144:3:5245>
@@ -2825,7 +2825,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Tirukkovil"@eng-Latn ,
         "තිරුක්කෝවිල්"@sin-Sinh ,
         "திருக்கோவில்"@tam-Taml ;
-    wdata:q7200235 "LK5245" ;
+    wdata:Q7200235 "LK5245" ;
 .
 
 <urn:mdciii:1603:16:144:3:5248>
@@ -2838,7 +2838,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Pottuvil"@eng-Latn ,
         "පොතුවිල්"@sin-Sinh ,
         "பொத்துவில்"@tam-Taml ;
-    wdata:q7200235 "LK5248" ;
+    wdata:Q7200235 "LK5248" ;
 .
 
 <urn:mdciii:1603:16:144:3:5251>
@@ -2851,7 +2851,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Lahugala"@eng-Latn ,
         "ලාහුගල"@sin-Sinh ,
         "லகுகலை"@tam-Taml ;
-    wdata:q7200235 "LK5251" ;
+    wdata:Q7200235 "LK5251" ;
 .
 
 <urn:mdciii:1603:16:144:3:5303>
@@ -2864,7 +2864,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Padavi Sri Pura"@eng-Latn ,
         "පදවි ශ්‍රී පුර"@sin-Sinh ,
         "பதவிசிறிபுர"@tam-Taml ;
-    wdata:q7200235 "LK5303" ;
+    wdata:Q7200235 "LK5303" ;
 .
 
 <urn:mdciii:1603:16:144:3:5306>
@@ -2877,7 +2877,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kuchchaweli"@eng-Latn ,
         "කුච්චවේලි"@sin-Sinh ,
         "குச்சவெளி"@tam-Taml ;
-    wdata:q7200235 "LK5306" ;
+    wdata:Q7200235 "LK5306" ;
 .
 
 <urn:mdciii:1603:16:144:3:5309>
@@ -2890,7 +2890,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Gomarankadawala"@eng-Latn ,
         "ගෝමරන්කඩවල"@sin-Sinh ,
         "கோமரங்கடவல"@tam-Taml ;
-    wdata:q7200235 "LK5309" ;
+    wdata:Q7200235 "LK5309" ;
 .
 
 <urn:mdciii:1603:16:144:3:5312>
@@ -2903,7 +2903,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Morawewa"@eng-Latn ,
         "මොරවැව"@sin-Sinh ,
         "மொரவெவ"@tam-Taml ;
-    wdata:q7200235 "LK5312" ;
+    wdata:Q7200235 "LK5312" ;
 .
 
 <urn:mdciii:1603:16:144:3:5315>
@@ -2916,7 +2916,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Town & Gravets"@eng-Latn ,
         "ත්‍රිකුණාමල"@sin-Sinh ,
         "திருகோணமலை"@tam-Taml ;
-    wdata:q7200235 "LK5315" ;
+    wdata:Q7200235 "LK5315" ;
 .
 
 <urn:mdciii:1603:16:144:3:5318>
@@ -2929,7 +2929,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Thambalagamuwa"@eng-Latn ,
         "තඹලගමුව"@sin-Sinh ,
         "தம்பலகாமம்"@tam-Taml ;
-    wdata:q7200235 "LK5318" ;
+    wdata:Q7200235 "LK5318" ;
 .
 
 <urn:mdciii:1603:16:144:3:5321>
@@ -2942,7 +2942,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kantale"@eng-Latn ,
         "කන්තලේ"@sin-Sinh ,
         "கந்தளாய்"@tam-Taml ;
-    wdata:q7200235 "LK5321" ;
+    wdata:Q7200235 "LK5321" ;
 .
 
 <urn:mdciii:1603:16:144:3:5324>
@@ -2955,7 +2955,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kinniya"@eng-Latn ,
         "කින්නියා"@sin-Sinh ,
         "கிண்ணியா"@tam-Taml ;
-    wdata:q7200235 "LK5324" ;
+    wdata:Q7200235 "LK5324" ;
 .
 
 <urn:mdciii:1603:16:144:3:5327>
@@ -2968,7 +2968,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Muthur"@eng-Latn ,
         "මුත්තූර්"@sin-Sinh ,
         "மூதூர்"@tam-Taml ;
-    wdata:q7200235 "LK5327" ;
+    wdata:Q7200235 "LK5327" ;
 .
 
 <urn:mdciii:1603:16:144:3:5330>
@@ -2981,7 +2981,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Seruvila"@eng-Latn ,
         "සේරුවිල"@sin-Sinh ,
         "சேருவிலை"@tam-Taml ;
-    wdata:q7200235 "LK5330" ;
+    wdata:Q7200235 "LK5330" ;
 .
 
 <urn:mdciii:1603:16:144:3:5333>
@@ -2994,7 +2994,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Verugal"@eng-Latn ,
         "වෙරුගල්"@sin-Sinh ,
         "வெருகல் - ஈச்சிலம்பத்தை"@tam-Taml ;
-    wdata:q7200235 "LK5333" ;
+    wdata:Q7200235 "LK5333" ;
 .
 
 <urn:mdciii:1603:16:144:3:6000>
@@ -3007,7 +3007,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "[unknown]"@eng-Latn ,
         "[unknown]"@sin-Sinh ,
         "[unknown]"@tam-Taml ;
-    wdata:q7200235 "LK6000" ;
+    wdata:Q7200235 "LK6000" ;
 .
 
 <urn:mdciii:1603:16:144:3:6103>
@@ -3020,7 +3020,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Giribawa"@eng-Latn ,
         "ගිරිබාව"@sin-Sinh ,
         "கிரிபாவை"@tam-Taml ;
-    wdata:q7200235 "LK6103" ;
+    wdata:Q7200235 "LK6103" ;
 .
 
 <urn:mdciii:1603:16:144:3:6106>
@@ -3033,7 +3033,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Galgamuwa"@eng-Latn ,
         "ගල්ගමුව"@sin-Sinh ,
         "கல்கமுவை"@tam-Taml ;
-    wdata:q7200235 "LK6106" ;
+    wdata:Q7200235 "LK6106" ;
 .
 
 <urn:mdciii:1603:16:144:3:6109>
@@ -3046,7 +3046,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ehetuwewa"@eng-Latn ,
         "ඇහැටුවැව"@sin-Sinh ,
         "எகடுவெவை"@tam-Taml ;
-    wdata:q7200235 "LK6109" ;
+    wdata:Q7200235 "LK6109" ;
 .
 
 <urn:mdciii:1603:16:144:3:6112>
@@ -3059,7 +3059,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ambanpola"@eng-Latn ,
         "අඹන්පොළ"@sin-Sinh ,
         "அம்பன்பொலை"@tam-Taml ;
-    wdata:q7200235 "LK6112" ;
+    wdata:Q7200235 "LK6112" ;
 .
 
 <urn:mdciii:1603:16:144:3:6115>
@@ -3072,7 +3072,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kotawehera"@eng-Latn ,
         "කොටවෙහෙර"@sin-Sinh ,
         "கொட்டவெகரை"@tam-Taml ;
-    wdata:q7200235 "LK6115" ;
+    wdata:Q7200235 "LK6115" ;
 .
 
 <urn:mdciii:1603:16:144:3:6118>
@@ -3085,7 +3085,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Rasnayakapura"@eng-Latn ,
         "රස්නායකපුර"@sin-Sinh ,
         "இரஸ்நாயக்கபுரம்"@tam-Taml ;
-    wdata:q7200235 "LK6118" ;
+    wdata:Q7200235 "LK6118" ;
 .
 
 <urn:mdciii:1603:16:144:3:6121>
@@ -3098,7 +3098,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Nikaweratiya"@eng-Latn ,
         "නිකවැරටිය"@sin-Sinh ,
         "நிக்கவெரட்டி"@tam-Taml ;
-    wdata:q7200235 "LK6121" ;
+    wdata:Q7200235 "LK6121" ;
 .
 
 <urn:mdciii:1603:16:144:3:6124>
@@ -3111,7 +3111,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Maho"@eng-Latn ,
         "මහව"@sin-Sinh ,
         "மாகோ"@tam-Taml ;
-    wdata:q7200235 "LK6124" ;
+    wdata:Q7200235 "LK6124" ;
 .
 
 <urn:mdciii:1603:16:144:3:6127>
@@ -3124,7 +3124,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Polpitigama"@eng-Latn ,
         "පොල්පිතිගම"@sin-Sinh ,
         "பொல்பித்திகமை"@tam-Taml ;
-    wdata:q7200235 "LK6127" ;
+    wdata:Q7200235 "LK6127" ;
 .
 
 <urn:mdciii:1603:16:144:3:6130>
@@ -3137,7 +3137,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ibbagamuwa"@eng-Latn ,
         "ඉබ්බාගමුව"@sin-Sinh ,
         "இப்பாகமுவை"@tam-Taml ;
-    wdata:q7200235 "LK6130" ;
+    wdata:Q7200235 "LK6130" ;
 .
 
 <urn:mdciii:1603:16:144:3:6133>
@@ -3150,7 +3150,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ganewatta"@eng-Latn ,
         "ගනේවත්ත"@sin-Sinh ,
         "கனேவத்தை"@tam-Taml ;
-    wdata:q7200235 "LK6133" ;
+    wdata:Q7200235 "LK6133" ;
 .
 
 <urn:mdciii:1603:16:144:3:6136>
@@ -3163,7 +3163,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Wariyapola"@eng-Latn ,
         "වාරියපොල"@sin-Sinh ,
         "வாரியப்பொலை"@tam-Taml ;
-    wdata:q7200235 "LK6136" ;
+    wdata:Q7200235 "LK6136" ;
 .
 
 <urn:mdciii:1603:16:144:3:6139>
@@ -3176,7 +3176,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kobeigane"@eng-Latn ,
         "කොබෙයිගනේ"@sin-Sinh ,
         "கொபேய்கனை"@tam-Taml ;
-    wdata:q7200235 "LK6139" ;
+    wdata:Q7200235 "LK6139" ;
 .
 
 <urn:mdciii:1603:16:144:3:6142>
@@ -3189,7 +3189,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Bingiriya"@eng-Latn ,
         "බිංගිරිය"@sin-Sinh ,
         "பிங்கிறியா"@tam-Taml ;
-    wdata:q7200235 "LK6142" ;
+    wdata:Q7200235 "LK6142" ;
 .
 
 <urn:mdciii:1603:16:144:3:6145>
@@ -3202,7 +3202,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Panduwasnuwara West"@eng-Latn ,
         "පඩුවස්නුවර බටහිර"@sin-Sinh ,
         "பண்டவஸ்நுவரை மேற்கு"@tam-Taml ;
-    wdata:q7200235 "LK6145" ;
+    wdata:Q7200235 "LK6145" ;
 .
 
 <urn:mdciii:1603:16:144:3:6148>
@@ -3215,7 +3215,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Panduwasnuwara East"@eng-Latn ,
         "පඩුවස්නුවර නැගෙනහිර"@sin-Sinh ,
         "பண்டவஸ்நுவரை கிழக்கு"@tam-Taml ;
-    wdata:q7200235 "LK6148" ;
+    wdata:Q7200235 "LK6148" ;
 .
 
 <urn:mdciii:1603:16:144:3:6149>
@@ -3228,7 +3228,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Bamunakotuwa"@eng-Latn ,
         "බමුණුකොටුව"@sin-Sinh ,
         "பமுணுகொடுவை"@tam-Taml ;
-    wdata:q7200235 "LK6149" ;
+    wdata:Q7200235 "LK6149" ;
 .
 
 <urn:mdciii:1603:16:144:3:6151>
@@ -3241,7 +3241,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Maspotha"@eng-Latn ,
         "මාස්පොත"@sin-Sinh ,
         "மஸ்பொத்தை"@tam-Taml ;
-    wdata:q7200235 "LK6151" ;
+    wdata:Q7200235 "LK6151" ;
 .
 
 <urn:mdciii:1603:16:144:3:6154>
@@ -3254,7 +3254,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kurunegala"@eng-Latn ,
         "කුරුණෑගල"@sin-Sinh ,
         "குருணாகல்"@tam-Taml ;
-    wdata:q7200235 "LK6154" ;
+    wdata:Q7200235 "LK6154" ;
 .
 
 <urn:mdciii:1603:16:144:3:6157>
@@ -3267,7 +3267,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Mallawapitiya"@eng-Latn ,
         "මල්ලවපිටිය"@sin-Sinh ,
         "மல்லவபிட்டி"@tam-Taml ;
-    wdata:q7200235 "LK6157" ;
+    wdata:Q7200235 "LK6157" ;
 .
 
 <urn:mdciii:1603:16:144:3:6160>
@@ -3280,7 +3280,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Mawathagama"@eng-Latn ,
         "මාවතගම"@sin-Sinh ,
         "மாவத்தகமை"@tam-Taml ;
-    wdata:q7200235 "LK6160" ;
+    wdata:Q7200235 "LK6160" ;
 .
 
 <urn:mdciii:1603:16:144:3:6163>
@@ -3293,7 +3293,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Rideegama"@eng-Latn ,
         "රිදිගම"@sin-Sinh ,
         "ரிதிகமை"@tam-Taml ;
-    wdata:q7200235 "LK6163" ;
+    wdata:Q7200235 "LK6163" ;
 .
 
 <urn:mdciii:1603:16:144:3:6166>
@@ -3306,7 +3306,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Weerabugedara"@eng-Latn ,
         "වීරඹුගෙදර"@sin-Sinh ,
         "வெரம்புகெதறை"@tam-Taml ;
-    wdata:q7200235 "LK6166" ;
+    wdata:Q7200235 "LK6166" ;
 .
 
 <urn:mdciii:1603:16:144:3:6169>
@@ -3319,7 +3319,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kuliyapitiya East"@eng-Latn ,
         "කුලියාපිටිය නැගෙනහිර"@sin-Sinh ,
         "குளியாப்பிட்டி கிழக்கு"@tam-Taml ;
-    wdata:q7200235 "LK6169" ;
+    wdata:Q7200235 "LK6169" ;
 .
 
 <urn:mdciii:1603:16:144:3:6172>
@@ -3332,7 +3332,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kuliyapitiya West"@eng-Latn ,
         "කුලියාපිටිය බටහිර"@sin-Sinh ,
         "குளியாப்பிட்டி மேற்கு"@tam-Taml ;
-    wdata:q7200235 "LK6172" ;
+    wdata:Q7200235 "LK6172" ;
 .
 
 <urn:mdciii:1603:16:144:3:6175>
@@ -3345,7 +3345,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Udubaddawa"@eng-Latn ,
         "උඩුබැද්දාව"@sin-Sinh ,
         "உடுபத்தாவை"@tam-Taml ;
-    wdata:q7200235 "LK6175" ;
+    wdata:Q7200235 "LK6175" ;
 .
 
 <urn:mdciii:1603:16:144:3:6178>
@@ -3358,7 +3358,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Pannala"@eng-Latn ,
         "පන්නල"@sin-Sinh ,
         "பன்னலை"@tam-Taml ;
-    wdata:q7200235 "LK6178" ;
+    wdata:Q7200235 "LK6178" ;
 .
 
 <urn:mdciii:1603:16:144:3:6181>
@@ -3371,7 +3371,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Narammala"@eng-Latn ,
         "නාරම්මල"@sin-Sinh ,
         "நாரம்மலை"@tam-Taml ;
-    wdata:q7200235 "LK6181" ;
+    wdata:Q7200235 "LK6181" ;
 .
 
 <urn:mdciii:1603:16:144:3:6184>
@@ -3384,7 +3384,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Alawwa"@eng-Latn ,
         "අලව්ව"@sin-Sinh ,
         "அலவை"@tam-Taml ;
-    wdata:q7200235 "LK6184" ;
+    wdata:Q7200235 "LK6184" ;
 .
 
 <urn:mdciii:1603:16:144:3:6187>
@@ -3397,7 +3397,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Polgahawela"@eng-Latn ,
         "පොල්ගහවෙල"@sin-Sinh ,
         "பொல்கஹவெலை"@tam-Taml ;
-    wdata:q7200235 "LK6187" ;
+    wdata:Q7200235 "LK6187" ;
 .
 
 <urn:mdciii:1603:16:144:3:6203>
@@ -3410,7 +3410,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kalpitiya"@eng-Latn ,
         "කල්පිටිය"@sin-Sinh ,
         "கற்பிட்டி"@tam-Taml ;
-    wdata:q7200235 "LK6203" ;
+    wdata:Q7200235 "LK6203" ;
 .
 
 <urn:mdciii:1603:16:144:3:6206>
@@ -3423,7 +3423,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Vanathavilluwa"@eng-Latn ,
         "වනාතවිල්ලුව"@sin-Sinh ,
         "வானத்தவில்லு"@tam-Taml ;
-    wdata:q7200235 "LK6206" ;
+    wdata:Q7200235 "LK6206" ;
 .
 
 <urn:mdciii:1603:16:144:3:6209>
@@ -3436,7 +3436,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Karuwalagaswewa"@eng-Latn ,
         "කරුවලගස්වැව"@sin-Sinh ,
         "கறுவெலகஸ்வெவை"@tam-Taml ;
-    wdata:q7200235 "LK6209" ;
+    wdata:Q7200235 "LK6209" ;
 .
 
 <urn:mdciii:1603:16:144:3:6212>
@@ -3449,7 +3449,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Nawagattegama"@eng-Latn ,
         "නවගත්තේගම"@sin-Sinh ,
         "நவகத்தேகமை"@tam-Taml ;
-    wdata:q7200235 "LK6212" ;
+    wdata:Q7200235 "LK6212" ;
 .
 
 <urn:mdciii:1603:16:144:3:6215>
@@ -3462,7 +3462,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Puttalam"@eng-Latn ,
         "පුත්තලම"@sin-Sinh ,
         "புத்தளம்"@tam-Taml ;
-    wdata:q7200235 "LK6215" ;
+    wdata:Q7200235 "LK6215" ;
 .
 
 <urn:mdciii:1603:16:144:3:6218>
@@ -3475,7 +3475,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Mundel"@eng-Latn ,
         "මුන්දලම"@sin-Sinh ,
         "முந்தல்"@tam-Taml ;
-    wdata:q7200235 "LK6218" ;
+    wdata:Q7200235 "LK6218" ;
 .
 
 <urn:mdciii:1603:16:144:3:6221>
@@ -3488,7 +3488,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Mahakumbukkadawala"@eng-Latn ,
         "මහකුඹුක්කඩවල"@sin-Sinh ,
         "மகாகும்புக்கடவலை"@tam-Taml ;
-    wdata:q7200235 "LK6221" ;
+    wdata:Q7200235 "LK6221" ;
 .
 
 <urn:mdciii:1603:16:144:3:6224>
@@ -3501,7 +3501,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Anamaduwa"@eng-Latn ,
         "ආණමඩුව"@sin-Sinh ,
         "ஆனமடுவை"@tam-Taml ;
-    wdata:q7200235 "LK6224" ;
+    wdata:Q7200235 "LK6224" ;
 .
 
 <urn:mdciii:1603:16:144:3:6227>
@@ -3514,7 +3514,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Pallama"@eng-Latn ,
         "පල්ලම"@sin-Sinh ,
         "பள்ளமை"@tam-Taml ;
-    wdata:q7200235 "LK6227" ;
+    wdata:Q7200235 "LK6227" ;
 .
 
 <urn:mdciii:1603:16:144:3:6230>
@@ -3527,7 +3527,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Arachchikattuwa"@eng-Latn ,
         "ආරච්චිකට්ටුව"@sin-Sinh ,
         "ஆராச்சிக்கட்டு"@tam-Taml ;
-    wdata:q7200235 "LK6230" ;
+    wdata:Q7200235 "LK6230" ;
 .
 
 <urn:mdciii:1603:16:144:3:6233>
@@ -3540,7 +3540,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Chilaw"@eng-Latn ,
         "හලාවත"@sin-Sinh ,
         "சிலாபம்"@tam-Taml ;
-    wdata:q7200235 "LK6233" ;
+    wdata:Q7200235 "LK6233" ;
 .
 
 <urn:mdciii:1603:16:144:3:6236>
@@ -3553,7 +3553,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Madampe"@eng-Latn ,
         "මාදම්පෙ"@sin-Sinh ,
         "மாதம்பை"@tam-Taml ;
-    wdata:q7200235 "LK6236" ;
+    wdata:Q7200235 "LK6236" ;
 .
 
 <urn:mdciii:1603:16:144:3:6239>
@@ -3566,7 +3566,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Mahawewa"@eng-Latn ,
         "මහවැව"@sin-Sinh ,
         "மகாவெவை"@tam-Taml ;
-    wdata:q7200235 "LK6239" ;
+    wdata:Q7200235 "LK6239" ;
 .
 
 <urn:mdciii:1603:16:144:3:6242>
@@ -3579,7 +3579,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Nattandiya"@eng-Latn ,
         "නාත්තන්ඩිය"@sin-Sinh ,
         "நாத்தாண்டி"@tam-Taml ;
-    wdata:q7200235 "LK6242" ;
+    wdata:Q7200235 "LK6242" ;
 .
 
 <urn:mdciii:1603:16:144:3:6245>
@@ -3592,7 +3592,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Wennappuwa"@eng-Latn ,
         "වෙන්නප්පුව"@sin-Sinh ,
         "வென்னப்புவை"@tam-Taml ;
-    wdata:q7200235 "LK6245" ;
+    wdata:Q7200235 "LK6245" ;
 .
 
 <urn:mdciii:1603:16:144:3:6248>
@@ -3605,7 +3605,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Dankotuwa"@eng-Latn ,
         "දංකොටුව"@sin-Sinh ,
         "தங்கொட்டுவை"@tam-Taml ;
-    wdata:q7200235 "LK6248" ;
+    wdata:Q7200235 "LK6248" ;
 .
 
 <urn:mdciii:1603:16:144:3:7103>
@@ -3618,7 +3618,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Padaviya"@eng-Latn ,
         "පදවිය"@sin-Sinh ,
         "பதவியா"@tam-Taml ;
-    wdata:q7200235 "LK7103" ;
+    wdata:Q7200235 "LK7103" ;
 .
 
 <urn:mdciii:1603:16:144:3:7106>
@@ -3631,7 +3631,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kebithigollewa"@eng-Latn ,
         "කැඹිතිගොල්ලෑව"@sin-Sinh ,
         "கெப்பிட்டிக்கொல்லாவை"@tam-Taml ;
-    wdata:q7200235 "LK7106" ;
+    wdata:Q7200235 "LK7106" ;
 .
 
 <urn:mdciii:1603:16:144:3:7109>
@@ -3644,7 +3644,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Medawachchiya"@eng-Latn ,
         "මැදවච්චිය"@sin-Sinh ,
         "மதவாச்சி"@tam-Taml ;
-    wdata:q7200235 "LK7109" ;
+    wdata:Q7200235 "LK7109" ;
 .
 
 <urn:mdciii:1603:16:144:3:7112>
@@ -3657,7 +3657,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Mahawilachchiya"@eng-Latn ,
         "මහාවිලච්චිය"@sin-Sinh ,
         "மகாவிலாச்சி"@tam-Taml ;
-    wdata:q7200235 "LK7112" ;
+    wdata:Q7200235 "LK7112" ;
 .
 
 <urn:mdciii:1603:16:144:3:7115>
@@ -3670,7 +3670,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Nuwaragam Palatha Central"@eng-Latn ,
         "නුවරගම් පළාත මධ්‍යම"@sin-Sinh ,
         "நுவரகமை பலாத்தை மத்தி"@tam-Taml ;
-    wdata:q7200235 "LK7115" ;
+    wdata:Q7200235 "LK7115" ;
 .
 
 <urn:mdciii:1603:16:144:3:7118>
@@ -3683,7 +3683,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Rambewa"@eng-Latn ,
         "රඹෑව"@sin-Sinh ,
         "இறம்பாவை"@tam-Taml ;
-    wdata:q7200235 "LK7118" ;
+    wdata:Q7200235 "LK7118" ;
 .
 
 <urn:mdciii:1603:16:144:3:7121>
@@ -3696,7 +3696,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kahatagasdigiliya"@eng-Latn ,
         "කහටගස්දිගිලිය"@sin-Sinh ,
         "ககட்டகஸ்திகிலியை"@tam-Taml ;
-    wdata:q7200235 "LK7121" ;
+    wdata:Q7200235 "LK7121" ;
 .
 
 <urn:mdciii:1603:16:144:3:7124>
@@ -3709,7 +3709,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Horowpathana"@eng-Latn ,
         "හොරොව්පොතාන"@sin-Sinh ,
         "கொரவப்பொத்தானை"@tam-Taml ;
-    wdata:q7200235 "LK7124" ;
+    wdata:Q7200235 "LK7124" ;
 .
 
 <urn:mdciii:1603:16:144:3:7127>
@@ -3722,7 +3722,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Galenbidunuwewa"@eng-Latn ,
         "ගලෙන්බිදුනුවැව"@sin-Sinh ,
         "கலன்பிந்துனுவெவை"@tam-Taml ;
-    wdata:q7200235 "LK7127" ;
+    wdata:Q7200235 "LK7127" ;
 .
 
 <urn:mdciii:1603:16:144:3:7130>
@@ -3735,7 +3735,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Mihinthale"@eng-Latn ,
         "මිහින්තලේ"@sin-Sinh ,
         "மிகிந்தலை"@tam-Taml ;
-    wdata:q7200235 "LK7130" ;
+    wdata:Q7200235 "LK7130" ;
 .
 
 <urn:mdciii:1603:16:144:3:7133>
@@ -3748,7 +3748,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Nuwaragam Palatha East"@eng-Latn ,
         "නුවරගම් පළාත නැගෙනහිර"@sin-Sinh ,
         "நுவரகமை பலாத்தை கிழக்கு"@tam-Taml ;
-    wdata:q7200235 "LK7133" ;
+    wdata:Q7200235 "LK7133" ;
 .
 
 <urn:mdciii:1603:16:144:3:7136>
@@ -3761,7 +3761,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Nachchaduwa"@eng-Latn ,
         "නච්චදූව"@sin-Sinh ,
         "நாச்சாதுவை"@tam-Taml ;
-    wdata:q7200235 "LK7136" ;
+    wdata:Q7200235 "LK7136" ;
 .
 
 <urn:mdciii:1603:16:144:3:7139>
@@ -3774,7 +3774,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Nochchiyagama"@eng-Latn ,
         "නොච්චියාගම"@sin-Sinh ,
         "நொச்சியாகமை"@tam-Taml ;
-    wdata:q7200235 "LK7139" ;
+    wdata:Q7200235 "LK7139" ;
 .
 
 <urn:mdciii:1603:16:144:3:7142>
@@ -3787,7 +3787,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Rajanganaya"@eng-Latn ,
         "රාජාංගනය"@sin-Sinh ,
         "இராஜாங்கனை"@tam-Taml ;
-    wdata:q7200235 "LK7142" ;
+    wdata:Q7200235 "LK7142" ;
 .
 
 <urn:mdciii:1603:16:144:3:7145>
@@ -3800,7 +3800,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Thambuththegama"@eng-Latn ,
         "තඹුත්තේගම"@sin-Sinh ,
         "தம்புத்தேகமை"@tam-Taml ;
-    wdata:q7200235 "LK7145" ;
+    wdata:Q7200235 "LK7145" ;
 .
 
 <urn:mdciii:1603:16:144:3:7148>
@@ -3813,7 +3813,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Thalawa"@eng-Latn ,
         "තලාව"@sin-Sinh ,
         "தலாவை"@tam-Taml ;
-    wdata:q7200235 "LK7148" ;
+    wdata:Q7200235 "LK7148" ;
 .
 
 <urn:mdciii:1603:16:144:3:7151>
@@ -3826,7 +3826,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Thirappane"@eng-Latn ,
         "තිරප්පනේ"@sin-Sinh ,
         "திறப்பனை"@tam-Taml ;
-    wdata:q7200235 "LK7151" ;
+    wdata:Q7200235 "LK7151" ;
 .
 
 <urn:mdciii:1603:16:144:3:7154>
@@ -3839,7 +3839,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kekirawa"@eng-Latn ,
         "කැකිරාව"@sin-Sinh ,
         "கெக்கிராவை"@tam-Taml ;
-    wdata:q7200235 "LK7154" ;
+    wdata:Q7200235 "LK7154" ;
 .
 
 <urn:mdciii:1603:16:144:3:7157>
@@ -3852,7 +3852,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Palugaswewa"@eng-Latn ,
         "පලුගස්වැව"@sin-Sinh ,
         "பலுகஸ்வெவை"@tam-Taml ;
-    wdata:q7200235 "LK7157" ;
+    wdata:Q7200235 "LK7157" ;
 .
 
 <urn:mdciii:1603:16:144:3:7160>
@@ -3865,7 +3865,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ipalogama"@eng-Latn ,
         "ඉපලෝගම"@sin-Sinh ,
         "இபலோகமை"@tam-Taml ;
-    wdata:q7200235 "LK7160" ;
+    wdata:Q7200235 "LK7160" ;
 .
 
 <urn:mdciii:1603:16:144:3:7163>
@@ -3878,7 +3878,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Galnewa"@eng-Latn ,
         "ගල්නෑව"@sin-Sinh ,
         "கல்னேவை"@tam-Taml ;
-    wdata:q7200235 "LK7163" ;
+    wdata:Q7200235 "LK7163" ;
 .
 
 <urn:mdciii:1603:16:144:3:7166>
@@ -3891,7 +3891,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Palagala"@eng-Latn ,
         "පළාගල"@sin-Sinh ,
         "பலாகலை"@tam-Taml ;
-    wdata:q7200235 "LK7166" ;
+    wdata:Q7200235 "LK7166" ;
 .
 
 <urn:mdciii:1603:16:144:3:7203>
@@ -3904,7 +3904,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Higurakgoda"@eng-Latn ,
         "හිඟුරක්ගොඩ"@sin-Sinh ,
         "இங்குராகொடை"@tam-Taml ;
-    wdata:q7200235 "LK7203" ;
+    wdata:Q7200235 "LK7203" ;
 .
 
 <urn:mdciii:1603:16:144:3:7206>
@@ -3917,7 +3917,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Medirigiriya"@eng-Latn ,
         "මැදිරිගිරිය"@sin-Sinh ,
         "மெதிரிகிரியை"@tam-Taml ;
-    wdata:q7200235 "LK7206" ;
+    wdata:Q7200235 "LK7206" ;
 .
 
 <urn:mdciii:1603:16:144:3:7209>
@@ -3930,7 +3930,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Lankapura"@eng-Latn ,
         "ලංකාපුර"@sin-Sinh ,
         "இலங்காபுரம்"@tam-Taml ;
-    wdata:q7200235 "LK7209" ;
+    wdata:Q7200235 "LK7209" ;
 .
 
 <urn:mdciii:1603:16:144:3:7210>
@@ -3943,7 +3943,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Welikanda"@eng-Latn ,
         "වැලිකන්ද"@sin-Sinh ,
         "வெலிக்கந்தை"@tam-Taml ;
-    wdata:q7200235 "LK7210" ;
+    wdata:Q7200235 "LK7210" ;
 .
 
 <urn:mdciii:1603:16:144:3:7212>
@@ -3956,7 +3956,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Dimbulagala"@eng-Latn ,
         "දිඹුලාගල"@sin-Sinh ,
         "திம்புலாகலை"@tam-Taml ;
-    wdata:q7200235 "LK7212" ;
+    wdata:Q7200235 "LK7212" ;
 .
 
 <urn:mdciii:1603:16:144:3:7215>
@@ -3969,7 +3969,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Thamankaduwa"@eng-Latn ,
         "තමන්කඩුව"@sin-Sinh ,
         "தமன்கடுவை"@tam-Taml ;
-    wdata:q7200235 "LK7215" ;
+    wdata:Q7200235 "LK7215" ;
 .
 
 <urn:mdciii:1603:16:144:3:7218>
@@ -3982,7 +3982,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Elahera"@eng-Latn ,
         "ඇලහැර"@sin-Sinh ,
         "எலகெரை"@tam-Taml ;
-    wdata:q7200235 "LK7218" ;
+    wdata:Q7200235 "LK7218" ;
 .
 
 <urn:mdciii:1603:16:144:3:8103>
@@ -3995,7 +3995,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Mahiyanganaya"@eng-Latn ,
         "මහියංගනය"@sin-Sinh ,
         "மகியங்கனை"@tam-Taml ;
-    wdata:q7200235 "LK8103" ;
+    wdata:Q7200235 "LK8103" ;
 .
 
 <urn:mdciii:1603:16:144:3:8106>
@@ -4008,7 +4008,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Rideemaliyadda"@eng-Latn ,
         "රිදීමාලියැද්ද"@sin-Sinh ,
         "றிதிமாலியத்தை"@tam-Taml ;
-    wdata:q7200235 "LK8106" ;
+    wdata:Q7200235 "LK8106" ;
 .
 
 <urn:mdciii:1603:16:144:3:8109>
@@ -4021,7 +4021,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Meegahakiula"@eng-Latn ,
         "මීගහකිවුල"@sin-Sinh ,
         "மீகாககிவுலை"@tam-Taml ;
-    wdata:q7200235 "LK8109" ;
+    wdata:Q7200235 "LK8109" ;
 .
 
 <urn:mdciii:1603:16:144:3:8112>
@@ -4034,7 +4034,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kandeketiya"@eng-Latn ,
         "කන්දෙකැටිය"@sin-Sinh ,
         "கந்தகெட்டிய"@tam-Taml ;
-    wdata:q7200235 "LK8112" ;
+    wdata:Q7200235 "LK8112" ;
 .
 
 <urn:mdciii:1603:16:144:3:8115>
@@ -4047,7 +4047,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Soranathota"@eng-Latn ,
         "සොරණාතොට"@sin-Sinh ,
         "சொரணாதோட்டை"@tam-Taml ;
-    wdata:q7200235 "LK8115" ;
+    wdata:Q7200235 "LK8115" ;
 .
 
 <urn:mdciii:1603:16:144:3:8118>
@@ -4060,7 +4060,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Passara"@eng-Latn ,
         "පස්සර"@sin-Sinh ,
         "பசறை"@tam-Taml ;
-    wdata:q7200235 "LK8118" ;
+    wdata:Q7200235 "LK8118" ;
 .
 
 <urn:mdciii:1603:16:144:3:8119>
@@ -4073,7 +4073,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Lunugala"@eng-Latn ,
         "ලුණුගල"@sin-Sinh ,
         "லுணுகலை"@tam-Taml ;
-    wdata:q7200235 "LK8119" ;
+    wdata:Q7200235 "LK8119" ;
 .
 
 <urn:mdciii:1603:16:144:3:8121>
@@ -4086,7 +4086,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Badulla"@eng-Latn ,
         "බදුල්ල"@sin-Sinh ,
         "பதுளை"@tam-Taml ;
-    wdata:q7200235 "LK8121" ;
+    wdata:Q7200235 "LK8121" ;
 .
 
 <urn:mdciii:1603:16:144:3:8124>
@@ -4099,7 +4099,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Hali-Ela"@eng-Latn ,
         "හාලිඇල"@sin-Sinh ,
         "ஆலி-எலை"@tam-Taml ;
-    wdata:q7200235 "LK8124" ;
+    wdata:Q7200235 "LK8124" ;
 .
 
 <urn:mdciii:1603:16:144:3:8127>
@@ -4112,7 +4112,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Uvaparanagama"@eng-Latn ,
         "ඌවපරණගම"@sin-Sinh ,
         "ஊவா பறணகமை"@tam-Taml ;
-    wdata:q7200235 "LK8127" ;
+    wdata:Q7200235 "LK8127" ;
 .
 
 <urn:mdciii:1603:16:144:3:8130>
@@ -4125,7 +4125,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Welimada"@eng-Latn ,
         "වැලිමඩ"@sin-Sinh ,
         "வெலிமடை"@tam-Taml ;
-    wdata:q7200235 "LK8130" ;
+    wdata:Q7200235 "LK8130" ;
 .
 
 <urn:mdciii:1603:16:144:3:8133>
@@ -4138,7 +4138,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Bandarawela"@eng-Latn ,
         "බණ්ඩාරවෙල"@sin-Sinh ,
         "பண்டாரவளை"@tam-Taml ;
-    wdata:q7200235 "LK8133" ;
+    wdata:Q7200235 "LK8133" ;
 .
 
 <urn:mdciii:1603:16:144:3:8136>
@@ -4151,7 +4151,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ella"@eng-Latn ,
         "ඇල්ල"@sin-Sinh ,
         "எல்லை"@tam-Taml ;
-    wdata:q7200235 "LK8136" ;
+    wdata:Q7200235 "LK8136" ;
 .
 
 <urn:mdciii:1603:16:144:3:8139>
@@ -4164,7 +4164,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Haputale"@eng-Latn ,
         "හපුතලේ"@sin-Sinh ,
         "அப்புத்தளை"@tam-Taml ;
-    wdata:q7200235 "LK8139" ;
+    wdata:Q7200235 "LK8139" ;
 .
 
 <urn:mdciii:1603:16:144:3:8142>
@@ -4177,7 +4177,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Haldummulla"@eng-Latn ,
         "හල්දුම්මුල්ල"@sin-Sinh ,
         "ஹல்துமுல்லை"@tam-Taml ;
-    wdata:q7200235 "LK8142" ;
+    wdata:Q7200235 "LK8142" ;
 .
 
 <urn:mdciii:1603:16:144:3:8203>
@@ -4190,7 +4190,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Bibile"@eng-Latn ,
         "බිබිල"@sin-Sinh ,
         "பிபிலை"@tam-Taml ;
-    wdata:q7200235 "LK8203" ;
+    wdata:Q7200235 "LK8203" ;
 .
 
 <urn:mdciii:1603:16:144:3:8206>
@@ -4203,7 +4203,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Madulla"@eng-Latn ,
         "මඩුල්ල"@sin-Sinh ,
         "மதுள்ளை"@tam-Taml ;
-    wdata:q7200235 "LK8206" ;
+    wdata:Q7200235 "LK8206" ;
 .
 
 <urn:mdciii:1603:16:144:3:8209>
@@ -4216,7 +4216,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Medagama"@eng-Latn ,
         "මැදගම"@sin-Sinh ,
         "மெதகமை"@tam-Taml ;
-    wdata:q7200235 "LK8209" ;
+    wdata:Q7200235 "LK8209" ;
 .
 
 <urn:mdciii:1603:16:144:3:8212>
@@ -4229,7 +4229,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Siyambalanduwa"@eng-Latn ,
         "සියඹලාණ්ඩුව"@sin-Sinh ,
         "சியம்பலான்டுவை"@tam-Taml ;
-    wdata:q7200235 "LK8212" ;
+    wdata:Q7200235 "LK8212" ;
 .
 
 <urn:mdciii:1603:16:144:3:8215>
@@ -4242,7 +4242,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Monaragala"@eng-Latn ,
         "මොණරාගල"@sin-Sinh ,
         "மொனராகலை"@tam-Taml ;
-    wdata:q7200235 "LK8215" ;
+    wdata:Q7200235 "LK8215" ;
 .
 
 <urn:mdciii:1603:16:144:3:8218>
@@ -4255,7 +4255,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Badalkumbura"@eng-Latn ,
         "බඩල්කුඹුර"@sin-Sinh ,
         "படல்கும்புரை"@tam-Taml ;
-    wdata:q7200235 "LK8218" ;
+    wdata:Q7200235 "LK8218" ;
 .
 
 <urn:mdciii:1603:16:144:3:8221>
@@ -4268,7 +4268,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Wellawaya"@eng-Latn ,
         "වැල්ලවාය"@sin-Sinh ,
         "வெல்லவாய"@tam-Taml ;
-    wdata:q7200235 "LK8221" ;
+    wdata:Q7200235 "LK8221" ;
 .
 
 <urn:mdciii:1603:16:144:3:8224>
@@ -4281,7 +4281,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Buttala"@eng-Latn ,
         "බුත්තල"@sin-Sinh ,
         "புத்தலை"@tam-Taml ;
-    wdata:q7200235 "LK8224" ;
+    wdata:Q7200235 "LK8224" ;
 .
 
 <urn:mdciii:1603:16:144:3:8227>
@@ -4294,7 +4294,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Katharagama"@eng-Latn ,
         "කතරගම"@sin-Sinh ,
         "கதிர்காமம்"@tam-Taml ;
-    wdata:q7200235 "LK8227" ;
+    wdata:Q7200235 "LK8227" ;
 .
 
 <urn:mdciii:1603:16:144:3:8230>
@@ -4307,7 +4307,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Thanamalwila"@eng-Latn ,
         "තණමල්විල"@sin-Sinh ,
         "தனமல்விலை"@tam-Taml ;
-    wdata:q7200235 "LK8230" ;
+    wdata:Q7200235 "LK8230" ;
 .
 
 <urn:mdciii:1603:16:144:3:8233>
@@ -4320,7 +4320,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Sevanagala"@eng-Latn ,
         "සෙවනගල"@sin-Sinh ,
         "செவனகலை"@tam-Taml ;
-    wdata:q7200235 "LK8233" ;
+    wdata:Q7200235 "LK8233" ;
 .
 
 <urn:mdciii:1603:16:144:3:9103>
@@ -4333,7 +4333,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Eheliyagoda"@eng-Latn ,
         "ඇහැලියගොඩ"@sin-Sinh ,
         "எகலியகொடை"@tam-Taml ;
-    wdata:q7200235 "LK9103" ;
+    wdata:Q7200235 "LK9103" ;
 .
 
 <urn:mdciii:1603:16:144:3:9106>
@@ -4346,7 +4346,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kuruvita"@eng-Latn ,
         "කුරුවිට"@sin-Sinh ,
         "குருவிட்டை"@tam-Taml ;
-    wdata:q7200235 "LK9106" ;
+    wdata:Q7200235 "LK9106" ;
 .
 
 <urn:mdciii:1603:16:144:3:9109>
@@ -4359,7 +4359,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kiriella"@eng-Latn ,
         "කිරිඇල්ල"@sin-Sinh ,
         "கிரியெல்லை"@tam-Taml ;
-    wdata:q7200235 "LK9109" ;
+    wdata:Q7200235 "LK9109" ;
 .
 
 <urn:mdciii:1603:16:144:3:9112>
@@ -4372,7 +4372,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ratnapura"@eng-Latn ,
         "රත්නපුර"@sin-Sinh ,
         "இரத்தினபுரி"@tam-Taml ;
-    wdata:q7200235 "LK9112" ;
+    wdata:Q7200235 "LK9112" ;
 .
 
 <urn:mdciii:1603:16:144:3:9115>
@@ -4385,7 +4385,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Imbulpe"@eng-Latn ,
         "ඉඹුල්පේ"@sin-Sinh ,
         "இம்புல்பே"@tam-Taml ;
-    wdata:q7200235 "LK9115" ;
+    wdata:Q7200235 "LK9115" ;
 .
 
 <urn:mdciii:1603:16:144:3:9118>
@@ -4398,7 +4398,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Balangoda"@eng-Latn ,
         "බලංගොඩ"@sin-Sinh ,
         "பலாங்கொடை"@tam-Taml ;
-    wdata:q7200235 "LK9118" ;
+    wdata:Q7200235 "LK9118" ;
 .
 
 <urn:mdciii:1603:16:144:3:9121>
@@ -4411,7 +4411,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Opanayake"@eng-Latn ,
         "ඕපනායක"@sin-Sinh ,
         "ஒபநாயக்கா"@tam-Taml ;
-    wdata:q7200235 "LK9121" ;
+    wdata:Q7200235 "LK9121" ;
 .
 
 <urn:mdciii:1603:16:144:3:9124>
@@ -4424,7 +4424,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Pelmadulla"@eng-Latn ,
         "පැල්මඩුල්ල"@sin-Sinh ,
         "பெல்மதுளை"@tam-Taml ;
-    wdata:q7200235 "LK9124" ;
+    wdata:Q7200235 "LK9124" ;
 .
 
 <urn:mdciii:1603:16:144:3:9127>
@@ -4437,7 +4437,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Elapatha"@eng-Latn ,
         "ඇලපාත"@sin-Sinh ,
         "எலபாத்தை"@tam-Taml ;
-    wdata:q7200235 "LK9127" ;
+    wdata:Q7200235 "LK9127" ;
 .
 
 <urn:mdciii:1603:16:144:3:9130>
@@ -4450,7 +4450,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ayagama"@eng-Latn ,
         "අයගම"@sin-Sinh ,
         "அயகமை"@tam-Taml ;
-    wdata:q7200235 "LK9130" ;
+    wdata:Q7200235 "LK9130" ;
 .
 
 <urn:mdciii:1603:16:144:3:9133>
@@ -4463,7 +4463,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kalawana"@eng-Latn ,
         "කලවාන"@sin-Sinh ,
         "கலவானை"@tam-Taml ;
-    wdata:q7200235 "LK9133" ;
+    wdata:Q7200235 "LK9133" ;
 .
 
 <urn:mdciii:1603:16:144:3:9136>
@@ -4476,7 +4476,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Nivithigala"@eng-Latn ,
         "නිවිතිගල"@sin-Sinh ,
         "நிவித்திகலை"@tam-Taml ;
-    wdata:q7200235 "LK9136" ;
+    wdata:Q7200235 "LK9136" ;
 .
 
 <urn:mdciii:1603:16:144:3:9139>
@@ -4489,7 +4489,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kahawattha"@eng-Latn ,
         "කහවත්ත"@sin-Sinh ,
         "காவத்தை"@tam-Taml ;
-    wdata:q7200235 "LK9139" ;
+    wdata:Q7200235 "LK9139" ;
 .
 
 <urn:mdciii:1603:16:144:3:9142>
@@ -4502,7 +4502,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Godakawela"@eng-Latn ,
         "ගොඩකවෙල"@sin-Sinh ,
         "கொடகவளை"@tam-Taml ;
-    wdata:q7200235 "LK9142" ;
+    wdata:Q7200235 "LK9142" ;
 .
 
 <urn:mdciii:1603:16:144:3:9145>
@@ -4515,7 +4515,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Weligepola"@eng-Latn ,
         "වැලිගෙපොල"@sin-Sinh ,
         "வெளிகேபொலை"@tam-Taml ;
-    wdata:q7200235 "LK9145" ;
+    wdata:Q7200235 "LK9145" ;
 .
 
 <urn:mdciii:1603:16:144:3:9148>
@@ -4528,7 +4528,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Embilipitiya"@eng-Latn ,
         "ඇඹිලිපිටිය"@sin-Sinh ,
         "எம்பிலிபிட்டியா"@tam-Taml ;
-    wdata:q7200235 "LK9148" ;
+    wdata:Q7200235 "LK9148" ;
 .
 
 <urn:mdciii:1603:16:144:3:9151>
@@ -4541,7 +4541,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kolonna"@eng-Latn ,
         "කොලොන්න"@sin-Sinh ,
         "கொலொன்னை"@tam-Taml ;
-    wdata:q7200235 "LK9151" ;
+    wdata:Q7200235 "LK9151" ;
 .
 
 <urn:mdciii:1603:16:144:3:9203>
@@ -4554,7 +4554,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Rambukkana"@eng-Latn ,
         "රඹුක්කන"@sin-Sinh ,
         "றம்புக்கணை"@tam-Taml ;
-    wdata:q7200235 "LK9203" ;
+    wdata:Q7200235 "LK9203" ;
 .
 
 <urn:mdciii:1603:16:144:3:9206>
@@ -4567,7 +4567,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Mawanella"@eng-Latn ,
         "මාවනැල්ල"@sin-Sinh ,
         "மாவனல்லை"@tam-Taml ;
-    wdata:q7200235 "LK9206" ;
+    wdata:Q7200235 "LK9206" ;
 .
 
 <urn:mdciii:1603:16:144:3:9209>
@@ -4580,7 +4580,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Aranayake"@eng-Latn ,
         "අරණායක"@sin-Sinh ,
         "அரநாயக்கா"@tam-Taml ;
-    wdata:q7200235 "LK9209" ;
+    wdata:Q7200235 "LK9209" ;
 .
 
 <urn:mdciii:1603:16:144:3:9212>
@@ -4593,7 +4593,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kegalle"@eng-Latn ,
         "කෑගල්ල"@sin-Sinh ,
         "கேகாலை"@tam-Taml ;
-    wdata:q7200235 "LK9212" ;
+    wdata:Q7200235 "LK9212" ;
 .
 
 <urn:mdciii:1603:16:144:3:9215>
@@ -4606,7 +4606,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Galigamuwa"@eng-Latn ,
         "ගලිගමුව"@sin-Sinh ,
         "கலிகமுவை"@tam-Taml ;
-    wdata:q7200235 "LK9215" ;
+    wdata:Q7200235 "LK9215" ;
 .
 
 <urn:mdciii:1603:16:144:3:9218>
@@ -4619,7 +4619,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Warakapola"@eng-Latn ,
         "වරකාපොළ"@sin-Sinh ,
         "வறக்கப்பொலை"@tam-Taml ;
-    wdata:q7200235 "LK9218" ;
+    wdata:Q7200235 "LK9218" ;
 .
 
 <urn:mdciii:1603:16:144:3:9221>
@@ -4632,7 +4632,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ruwanwella"@eng-Latn ,
         "රුවන්වැල්ල"@sin-Sinh ,
         "ருவான்வெல்லை"@tam-Taml ;
-    wdata:q7200235 "LK9221" ;
+    wdata:Q7200235 "LK9221" ;
 .
 
 <urn:mdciii:1603:16:144:3:9224>
@@ -4645,7 +4645,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Bulathkohipitiya"@eng-Latn ,
         "බුලත්කොහුපිටිය"@sin-Sinh ,
         "புலத்கொகுபிட்டிய"@tam-Taml ;
-    wdata:q7200235 "LK9224" ;
+    wdata:Q7200235 "LK9224" ;
 .
 
 <urn:mdciii:1603:16:144:3:9227>
@@ -4658,7 +4658,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Yatiyantota"@eng-Latn ,
         "යටියන්තොට"@sin-Sinh ,
         "எட்டியாந்தோட்டை"@tam-Taml ;
-    wdata:q7200235 "LK9227" ;
+    wdata:Q7200235 "LK9227" ;
 .
 
 <urn:mdciii:1603:16:144:3:9230>
@@ -4671,7 +4671,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Dehiowita"@eng-Latn ,
         "දෙහිඕවිට"@sin-Sinh ,
         "தெகியோவிட்டை"@tam-Taml ;
-    wdata:q7200235 "LK9230" ;
+    wdata:Q7200235 "LK9230" ;
 .
 
 <urn:mdciii:1603:16:144:3:9233>
@@ -4684,6 +4684,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Deraniyagala"@eng-Latn ,
         "දැරණියගල"@sin-Sinh ,
         "தெரனியாகலை"@tam-Taml ;
-    wdata:q7200235 "LK9233" ;
+    wdata:Q7200235 "LK9233" ;
 .
 

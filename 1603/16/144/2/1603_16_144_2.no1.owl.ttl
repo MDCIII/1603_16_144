@@ -27,7 +27,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Colombo"@eng-Latn ,
         "කොළඹ දිස්ත්‍රික්කය"@sin-Sinh ,
         "கொழும்பு மாவட்டம்"@tam-Taml ;
-    wdata:q7200235 "LK11" ;
+    wdata:Q7200235 "LK11" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -78,7 +78,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Gampaha"@eng-Latn ,
         "ගම්පහ දිස්ත්‍රික්කය"@sin-Sinh ,
         "கம்பஹா மாவட்டம்"@tam-Taml ;
-    wdata:q7200235 "LK12" ;
+    wdata:Q7200235 "LK12" ;
 .
 
 <urn:mdciii:1603:16:144:2:13>
@@ -93,7 +93,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kalutara"@eng-Latn ,
         "කඵතර දිස්ත්‍රික්කය"@sin-Sinh ,
         "களுத்துறை மாவட்டம்"@tam-Taml ;
-    wdata:q7200235 "LK13" ;
+    wdata:Q7200235 "LK13" ;
 .
 
 <urn:mdciii:1603:16:144:2:21>
@@ -108,7 +108,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kandy"@eng-Latn ,
         "මහනුවර දිස්ත්‍රික්කය"@sin-Sinh ,
         "கண்டி மாவட்டம்"@tam-Taml ;
-    wdata:q7200235 "LK21" ;
+    wdata:Q7200235 "LK21" ;
 .
 
 <urn:mdciii:1603:16:144:2:22>
@@ -123,7 +123,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Matale"@eng-Latn ,
         "මාතලේ දිස්ත්‍රික්කය"@sin-Sinh ,
         "மாத்தளை மாவட்டம்"@tam-Taml ;
-    wdata:q7200235 "LK22" ;
+    wdata:Q7200235 "LK22" ;
 .
 
 <urn:mdciii:1603:16:144:2:23>
@@ -138,7 +138,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Nuwara Eliya"@eng-Latn ,
         "නුවරඑළිය දිස්ත්‍රික්කය"@sin-Sinh ,
         "நுவரேலியா மாவட்டம்"@tam-Taml ;
-    wdata:q7200235 "LK23" ;
+    wdata:Q7200235 "LK23" ;
 .
 
 <urn:mdciii:1603:16:144:2:31>
@@ -153,7 +153,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Galle"@eng-Latn ,
         "ගාල්ල දිස්ත්‍රික්කය"@sin-Sinh ,
         "காலி மாவட்டம்"@tam-Taml ;
-    wdata:q7200235 "LK31" ;
+    wdata:Q7200235 "LK31" ;
 .
 
 <urn:mdciii:1603:16:144:2:32>
@@ -168,7 +168,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Matara"@eng-Latn ,
         "මාතර දිස්ත්‍රික්කය"@sin-Sinh ,
         "மாத்தறை மாவட்டம்"@tam-Taml ;
-    wdata:q7200235 "LK32" ;
+    wdata:Q7200235 "LK32" ;
 .
 
 <urn:mdciii:1603:16:144:2:33>
@@ -183,7 +183,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Hambantota"@eng-Latn ,
         "හම්බන්තොට දිස්ත්‍රික්කය"@sin-Sinh ,
         "அம்பாந்தோட்டை மாவட்டம்"@tam-Taml ;
-    wdata:q7200235 "LK33" ;
+    wdata:Q7200235 "LK33" ;
 .
 
 <urn:mdciii:1603:16:144:2:41>
@@ -198,7 +198,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Jaffna"@eng-Latn ,
         "යාපනය දිස්ත්‍රික්කය"@sin-Sinh ,
         "யாழ்ப்பாணம் மாவட்டம்"@tam-Taml ;
-    wdata:q7200235 "LK41" ;
+    wdata:Q7200235 "LK41" ;
 .
 
 <urn:mdciii:1603:16:144:2:42>
@@ -213,7 +213,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Mannar"@eng-Latn ,
         "මන්නාරම දිස්ත්‍රික්කය"@sin-Sinh ,
         "மன்னார் மாவட்டம்"@tam-Taml ;
-    wdata:q7200235 "LK42" ;
+    wdata:Q7200235 "LK42" ;
 .
 
 <urn:mdciii:1603:16:144:2:43>
@@ -228,7 +228,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Vavuniya"@eng-Latn ,
         "වවුනියා දිස්ත්‍රික්කය"@sin-Sinh ,
         "வவுனியா மாவட்டம்"@tam-Taml ;
-    wdata:q7200235 "LK43" ;
+    wdata:Q7200235 "LK43" ;
 .
 
 <urn:mdciii:1603:16:144:2:44>
@@ -243,7 +243,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Mullaitivu"@eng-Latn ,
         "මුලතිවු දිස්ත්‍රික්කය"@sin-Sinh ,
         "முல்லைத்தீவு மாவட்டம்"@tam-Taml ;
-    wdata:q7200235 "LK44" ;
+    wdata:Q7200235 "LK44" ;
 .
 
 <urn:mdciii:1603:16:144:2:45>
@@ -258,7 +258,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kilinochchi"@eng-Latn ,
         "කිලිනොච්චි දිස්ත්‍රික්කය"@sin-Sinh ,
         "கிளிநொச்சி மாவட்டம்"@tam-Taml ;
-    wdata:q7200235 "LK45" ;
+    wdata:Q7200235 "LK45" ;
 .
 
 <urn:mdciii:1603:16:144:2:51>
@@ -273,7 +273,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Batticaloa"@eng-Latn ,
         "මඩකලපුව දිස්ත්‍රික්කය"@sin-Sinh ,
         "மட்டக்களப்பு மாவட்டம்"@tam-Taml ;
-    wdata:q7200235 "LK51" ;
+    wdata:Q7200235 "LK51" ;
 .
 
 <urn:mdciii:1603:16:144:2:52>
@@ -288,7 +288,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ampara"@eng-Latn ,
         "අම්පාර දිස්ත්‍රික්කය"@sin-Sinh ,
         "அம்பாறை மாவட்டம்"@tam-Taml ;
-    wdata:q7200235 "LK52" ;
+    wdata:Q7200235 "LK52" ;
 .
 
 <urn:mdciii:1603:16:144:2:53>
@@ -303,7 +303,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Trincomalee"@eng-Latn ,
         "ත්‍රිකුණාමළය දිස්ත්‍රික්කය"@sin-Sinh ,
         "திருகோணமலை மாவட்டம்"@tam-Taml ;
-    wdata:q7200235 "LK53" ;
+    wdata:Q7200235 "LK53" ;
 .
 
 <urn:mdciii:1603:16:144:2:60>
@@ -318,7 +318,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "[unknown]"@eng-Latn ,
         "[unknown]"@sin-Sinh ,
         "[unknoபுத்தளம் மாவட்டம்wn]"@tam-Taml ;
-    wdata:q7200235 "LK60" ;
+    wdata:Q7200235 "LK60" ;
 .
 
 <urn:mdciii:1603:16:144:2:61>
@@ -333,7 +333,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kurunegala"@eng-Latn ,
         "කුරුණෑගල දිස්ත්‍රික්කය"@sin-Sinh ,
         "குருநாகல் மாவட்டம்"@tam-Taml ;
-    wdata:q7200235 "LK61" ;
+    wdata:Q7200235 "LK61" ;
 .
 
 <urn:mdciii:1603:16:144:2:62>
@@ -348,7 +348,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Puttalam"@eng-Latn ,
         "පුත්තලම දිස්ත්‍රික්කය"@sin-Sinh ,
         "புத்தளம் மாவட்டம்"@tam-Taml ;
-    wdata:q7200235 "LK62" ;
+    wdata:Q7200235 "LK62" ;
 .
 
 <urn:mdciii:1603:16:144:2:71>
@@ -363,7 +363,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Anuradhapura"@eng-Latn ,
         "අනුරාධපුර දිස්ත්‍රික්කය"@sin-Sinh ,
         "அனுராதபுரம் மாவட்டம்"@tam-Taml ;
-    wdata:q7200235 "LK71" ;
+    wdata:Q7200235 "LK71" ;
 .
 
 <urn:mdciii:1603:16:144:2:72>
@@ -378,7 +378,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Polonnaruwa"@eng-Latn ,
         "පොළොන්නරුව දිස්ත්‍රික්කය"@sin-Sinh ,
         "பொலன்னறுவை மாவட்டம்"@tam-Taml ;
-    wdata:q7200235 "LK72" ;
+    wdata:Q7200235 "LK72" ;
 .
 
 <urn:mdciii:1603:16:144:2:81>
@@ -393,7 +393,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Badulla"@eng-Latn ,
         "බදුල්ල දිස්ත්‍රික්කය"@sin-Sinh ,
         "பதுளை மாவட்டம்"@tam-Taml ;
-    wdata:q7200235 "LK81" ;
+    wdata:Q7200235 "LK81" ;
 .
 
 <urn:mdciii:1603:16:144:2:82>
@@ -408,7 +408,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Monaragala"@eng-Latn ,
         "මොණරාගල දිස්ත්‍රික්කය"@sin-Sinh ,
         "மொணராகலை மாவட்டம்"@tam-Taml ;
-    wdata:q7200235 "LK82" ;
+    wdata:Q7200235 "LK82" ;
 .
 
 <urn:mdciii:1603:16:144:2:91>
@@ -423,7 +423,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ratnapura"@eng-Latn ,
         "රත්නපුර දිස්ත්‍රික්කය"@sin-Sinh ,
         "இரத்தினபுரம் மாவட்டம்"@tam-Taml ;
-    wdata:q7200235 "LK91" ;
+    wdata:Q7200235 "LK91" ;
 .
 
 <urn:mdciii:1603:16:144:2:92>
@@ -438,6 +438,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kegalle"@eng-Latn ,
         "කෑගල්ල දිස්ත්‍රික්කය"@sin-Sinh ,
         "கேகாலை மாவட்டம்"@tam-Taml ;
-    wdata:q7200235 "LK92" ;
+    wdata:Q7200235 "LK92" ;
 .
 
